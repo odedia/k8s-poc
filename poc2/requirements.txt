@@ -1,0 +1,5 @@
+pika
+pyyaml
+Requests
+requests_pkcs12
+--index-url=https://pypi.org/simple

@@ -1,0 +1,9 @@
+---
+applications:
+- name: poc1
+  memory: 128MB
+  disk_quota: 256MB
+  buildpack: python_buildpack
+  command: python app.py
+  services:
+  - rabbit

@@ -1,0 +1,11 @@
+---
+applications:
+- name: poc2
+  memory: 128MB
+  disk_quota: 256MB
+  buildpack: python_buildpack
+  command: python app.py
+  health-check-type: process
+  services:
+  - rabbit
+  

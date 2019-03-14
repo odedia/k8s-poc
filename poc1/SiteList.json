@@ -1,0 +1,2144 @@
+[
+    {
+        "Site": "http://asp.mot.gov.il/he/",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05e1\u05e4\u05e0\u05d5\u05ea \u05d5\u05d4\u05e0\u05de\u05dc\u05d9\u05dd",
+        "URLafterRedirect": "http://asp.mot.gov.il/he/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/kalpi",
+        "Title": "\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea 2018",
+        "URLafterRedirect": "https://www.gov.il/apps/moin/bocharim/",
+        "TimeToReport": "20",
+        "Misc": "local elections 2018 "
+    },
+    {
+        "Site": "http://caa.gov.il/index.php?lang=he",
+        "Title": "\u05e2\u05de\u05d5\u05d3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://caa.gov.il/index.php?lang=he",
+        "TimeToReport": "15",
+        "Misc": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d4\u05d0\u05d6\u05e8\u05d7\u05d9\u05ea"
+    },
+    {
+        "Site": "http://call.gov.il",
+        "Title": "\u05db\u05dc \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea",
+        "URLafterRedirect": "http://call.gov.il/infocenter/index?page=home",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea"
+    },
+    {
+        "Site": "http://car.cma.gov.il",
+        "Title": "",
+        "URLafterRedirect": "https://car.cma.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05d7\u05e9\u05d1\u05d5\u05df \u05ea\u05e2\u05e8\u05d9\u05e4\u05d9 \u05d1\u05d9\u05d8\u05d5\u05d7 \u05e8\u05db\u05d1 \u05d7\u05d5\u05d1\u05d4"
+    },
+    {
+        "Site": "http://cp.moin.gov.il/Pages/homepage.aspx",
+        "Title": "\u05de\u05d9\u05e0\u05d4\u05dc \u05d4\u05ea\u05db\u05e0\u05d5\u05df-\u05ea\u05d4\u05dc\u05d9\u05da \u05e8\u05d9\u05e9\u05d5\u05d9 \u05d4\u05d1\u05e0\u05d9\u05d9\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/departments/topics/construction_licensing_information_exchange",
+        "TimeToReport": "40",
+        "Misc": ""
+    },
+    {
+        "Site": "http://designsearch.justice.gov.il",
+        "Title": "\u05d7\u05d9\u05e4\u05d5\u05e9 \u05d1\u05de\u05d0\u05d2\u05e8 \u05d4\u05e2\u05d9\u05e6\u05d5\u05d1\u05d9\u05dd (\u05de\u05d3\u05d2\u05de\u05d9\u05dd)",
+        "URLafterRedirect": "https://designsearch.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://dira.cma.gov.il/",
+        "Title": "\u05de\u05d7\u05e9\u05d1\u05d5\u05df \u05d1\u05d9\u05d8\u05d5\u05d7 \u05d3\u05d9\u05e8\u05d4 - \u05e8\u05e9\u05d5\u05ea \u05e9\u05d5\u05e7 \u05d4\u05d4\u05d5\u05df",
+        "URLafterRedirect": "https://dira.cma.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://ecom.gov.il/counter/general/Homepage.aspx?counter=17&catalog=0&language=he",
+        "Title": "\u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05ea\u05e9\u05dc\u05d5\u05de\u05d9\u05dd \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9 - \u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd",
+        "URLafterRedirect": "https://ecom.gov.il/counter/general/Homepage.aspx?counter=17&catalog=0&language=he",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://formspdf.justice.gov.il/Lawyers/ExtConst.aspx",
+        "Title": "\u05d4\u05e2\u05e1\u05e7\u05ea \u05d9\u05d5\u05e2\u05e6\u05d9\u05dd \u05de\u05e9\u05e4\u05d8\u05d9\u05d9\u05dd \u05d7\u05d9\u05e6\u05d5\u05e0\u05d9\u05d9\u05dd \u05d1\u05de\u05e9\u05e8\u05d3\u05d9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4 | \u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd",
+        "URLafterRedirect": "https://formspdf.justice.gov.il/Lawyers/ExtConst.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://gemelnet.cma.gov.il/views/dafmakdim.aspx",
+        "Title": "\u05d2\u05de\u05dc \u05e0\u05d8 - \u05de\u05e2\u05e8\u05db\u05ea \u05dc\u05d4\u05e9\u05d5\u05d5\u05d0\u05ea \u05e7\u05d5\u05e4\u05d5\u05ea \u05d2\u05de\u05dc",
+        "URLafterRedirect": "https://gemelnet.cma.gov.il/views/dafmakdim.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://haotzarsheli.mof.gov.il",
+        "Title": "\u05d4\u05d0\u05d5\u05e6\u05e8 \u05e9\u05dc\u05d9",
+        "URLafterRedirect": "https://haotzarsheli.mof.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://hebrew.moia.gov.il",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea \u05d0\u05ea\u05e8 \u05e7\u05d5\u05dc\u05d8\u05d9\u05dd \u05e2\u05d1\u05e8\u05d9\u05ea - \u05dc\u05dc\u05d9\u05de\u05d5\u05d3, \u05e9\u05d9\u05e4\u05d5\u05e8 \u05d5\u05ea\u05e8\u05d2\u05d5\u05dc \u05d4\u05e9\u05e4\u05d4 \u05d4\u05e2\u05d1\u05e8\u05d9\u05ea",
+        "URLafterRedirect": "http://hebrew.moia.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://hly.gov.il",
+        "Title": "\u05d7\u05d9\u05e1\u05db\u05d5\u05df \u05dc\u05db\u05dc \u05d9\u05dc\u05d3",
+        "URLafterRedirect": "https://hly.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://hsgs.mof.gov.il",
+        "Title": "\u05d0\u05ea\u05e8 \u05d3\u05d5\u05d7 \u05d4\u05de\u05de\u05d5\u05e0\u05d4 \u05e2\u05dc \u05d4\u05e9\u05db\u05e8 - \u05d1\u05e8\u05d5\u05db\u05d9\u05dd \u05d4\u05d1\u05d0\u05d9\u05dd \u05dc\u05d0\u05ea\u05e8 \u05d3\u05d5\u05d7 \u05d4\u05de\u05de\u05d5\u05e0\u05d4 \u05e2\u05dc \u05d4\u05e9\u05db\u05e8",
+        "URLafterRedirect": "https://hsgs.mof.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://iaec.gov.il/",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://iaec.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d4\u05d5\u05e2\u05d3\u05d4 \u05dc\u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05d0\u05d8\u05d5\u05de\u05d9\u05ea"
+    },
+    {
+        "Site": "http://ica.justice.gov.il",
+        "Title": "\u05de\u05d9\u05d3\u05e2 \u05d5\u05e9\u05e8\u05d5\u05ea\u05d9\u05dd \u05de\u05e7\u05d5\u05d5\u05e0\u05d9\u05dd - \u05ea\u05d0\u05d2\u05d9\u05d3\u05d9\u05dd Online",
+        "URLafterRedirect": "https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8",
+        "TimeToReport": "20",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "http://insurancedata.cma.gov.il/pages/entry.aspx",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea - \u05de\u05e2\u05e8\u05db\u05ea \u05de\u05d9\u05d3\u05e2 \u05dc\u05e6\u05d9\u05d1\u05d5\u05e8",
+        "URLafterRedirect": "http://insurancedata.cma.gov.il/pages/entry.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05e8\u05e9\u05d5\u05ea \u05e9\u05d5\u05e7 \u05d4\u05d4\u05d5\u05df, \u05d1\u05d9\u05d8\u05d5\u05d7 \u05d5\u05d7\u05e1\u05db\u05d5\u05df"
+    },
+    {
+        "Site": "http://investinisrael.gov.il",
+        "Title": "Invest In Israel",
+        "URLafterRedirect": "https://investinisrael.gov.il/Pages/default.aspx",
+        "TimeToReport": "60",
+        "Misc": ""
+    },
+    {
+        "Site": "http://iplan.gov.il",
+        "Title": "\u05de\u05d9\u05e0\u05d4\u05dc \u05d4\u05ea\u05db\u05e0\u05d5\u05df | \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://www.iplan.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d0\u05ea\u05e8 \u05d9\u05e9\u05df"
+    },
+    {
+        "Site": "http://land.gov.il",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05de\u05e7\u05e8\u05e7\u05e2\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc | \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://land.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://maarachot.idf.il/71929-he/Maarachot.aspx",
+        "Title": "\u05d0\u05ea\u05e8 \u05d4\u05d5\u05e6\u05d0\u05ea \u05de\u05e2\u05e8\u05db\u05d5\u05ea",
+        "URLafterRedirect": "http://maarachot.idf.il/71929-he/Maarachot.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d1\u05d9\u05ea \u05d4\u05d4\u05d5\u05e6\u05d0\u05d4 \u05dc\u05d0\u05d5\u05e8 \u05e9 \u05e6\u05d4\"\u05dc"
+    },
+    {
+        "Site": "http://main.knesset.gov.il/Pages/default.aspx",
+        "Title": "\u05d0\u05ea\u05e8 \u05d4\u05db\u05e0\u05e1\u05ea \u2013 \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "https://main.knesset.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://mapi.gov.il",
+        "Title": "",
+        "URLafterRedirect": "http://mapi.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d4\u05de\u05e8\u05db\u05d6 \u05dc\u05de\u05d9\u05e4\u05d5\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc"
+    },
+    {
+        "Site": "http://mavat.moin.gov.il/mavatps/forms/sv3.aspx?tid=3",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d0\u05d5\u05e6\u05e8 - \u05de\u05e0\u05d4\u05dc \u05d4\u05ea\u05db\u05e0\u05d5\u05df - \u05ea\u05db\u05e0\u05d5\u05df \u05d6\u05de\u05d9\u05df - \u05d0\u05d9\u05ea\u05d5\u05e8 \u05ea\u05db\u05e0\u05d9\u05ea \u05d5\u05d9\u05e9\u05d5\u05ea \u05ea\u05db\u05e0\u05d5\u05e0\u05d9\u05ea",
+        "URLafterRedirect": "http://mavat.moin.gov.il/mavatps/forms/sv3.aspx?tid=3",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://mena.police.gov.il",
+        "Title": "\u05de\u05e2\u05e8\u05db\u05ea \u05e0\u05e4\u05d2\u05e2\u05d9 \u05e2\u05d1\u05d9\u05e8\u05d4",
+        "URLafterRedirect": "https://mena.police.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://metadata.gov.il",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://metadata.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05d0\u05ea\u05e8 \u05d4\u05de\u05d8\u05d0\u05d3\u05d0\u05d8\u05d4 (\u05de\u05e2\u05e8\u05db\u05ea \u05de\u05d9\u05d3\u05e2 \u05d2\u05d9\u05d0\u05d5\u05d2\u05e8\u05e4\u05d9)"
+    },
+    {
+        "Site": "http://miluim.aka.idf.il",
+        "Title": "\u05d0\u05ea\u05e8 \u05d4\u05de\u05d9\u05dc\u05d5\u05d0\u05d9\u05dd",
+        "URLafterRedirect": "http://www.miluim.aka.idf.il/894-he/Miluim.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://mof.gov.il/ag",
+        "Title": "\u05d0\u05d2\u05e3 \u05d4\u05d7\u05e9\u05d1 \u05d4\u05db\u05dc\u05dc\u05d9",
+        "URLafterRedirect": "https://mof.gov.il/ag",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://mof.gov.il/en",
+        "Title": "Israeli Ministry of Finance - HomePage",
+        "URLafterRedirect": "https://mof.gov.il/en",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://mof.gov.il/GCA",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05d7\u05d1\u05e8\u05d5\u05ea - \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "https://mof.gov.il/GCA",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://mof.gov.il/hon",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05e9\u05d5\u05e7 \u05d4\u05d4\u05d5\u05df, \u05d1\u05d9\u05d8\u05d5\u05d7 \u05d5\u05d7\u05e1\u05db\u05d5\u05df",
+        "URLafterRedirect": "https://mof.gov.il/hon",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://mof.gov.il/rechev",
+        "Title": "\u05de\u05e0\u05d4\u05dc \u05d4\u05e8\u05db\u05d1 \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9",
+        "URLafterRedirect": "https://mof.gov.il/rechev",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://moia.gov.il/Moia_he",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05e2\u05dc\u05d9\u05d9\u05d4 \u05d5\u05d4\u05e7\u05dc\u05d9\u05d8\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/departments/ministry_of_aliyah_and_integration",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://negev-galil.gov.il",
+        "Title": "\u05d4\u05de\u05e9\u05e8\u05d3 \u05dc\u05e4\u05d9\u05ea\u05d5\u05d7 \u05d4\u05e4\u05e8\u05d9\u05e4\u05e8\u05d9\u05d4, \u05d4\u05e0\u05d2\u05d1 \u05d5\u05d4\u05d2\u05dc\u05d9\u05dc \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://negev-galil.gov.il/Pages/Home.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://pcc.mof.gov.il",
+        "Title": "\u05de\u05d5\u05e6\u05e8\u05d9\u05dd \u05d1\u05e4\u05d9\u05e7\u05d5\u05d7 \u05d5\u05e2\u05d3\u05ea \u05d4\u05de\u05d7\u05d9\u05e8\u05d9\u05dd",
+        "URLafterRedirect": "http://pcc.mof.gov.il/#/homepage",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://pensyanet.cma.gov.il/",
+        "Title": "\u05e4\u05e0\u05e1\u05d9\u05d4 \u05e0\u05d8",
+        "URLafterRedirect": "https://pensyanet.cma.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://plans.gov.il/Pages/Tamar_Material.aspx",
+        "Title": "",
+        "URLafterRedirect": "http://plans.gov.il/Pages/Tamar_Material.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05ea\u05db\u05e0\u05d9\u05d5\u05ea \u05e2\u05d1\u05d5\u05d3\u05d4 \u05dc\u05e9\u05e0\u05d9\u05dd 2017-2018"
+    },
+    {
+        "Site": "http://regulation.pmo.gov.il",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://regulation.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05d0\u05ea\u05e8 \u05d4\u05e8\u05d2\u05d5\u05dc\u05e6\u05d9\u05d4 \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9"
+    },
+    {
+        "Site": "http://simulator-prisha.mof.gov.il",
+        "Title": "\u05e1\u05d9\u05de\u05d5\u05dc\u05d8\u05d5\u05e8 \u05e4\u05e8\u05d9\u05e9\u05d4 - \u05db\u05e0\u05d9\u05e1\u05d4",
+        "URLafterRedirect": "https://simulator-prisha.mof.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://statistics.boi.org.il",
+        "Title": "\u05d3\u05e3 \u05de\u05e2\u05e7\u05d1 \u05d9\u05d5\u05de\u05d9",
+        "URLafterRedirect": "http://statistics.boi.org.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05d1\u05e0\u05e7 \u05d9\u05e9\u05e8\u05d0\u05dc"
+    },
+    {
+        "Site": "http://tzoarim.gov.il",
+        "Title": "\u05e6\u05d5\u05e2\u05e8\u05d9\u05dd \u05dc\u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05de\u05d3\u05d9\u05e0\u05d4 \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://tzoarim.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://votes20.gov.il/",
+        "Title": "\u05d5\u05e2\u05d3\u05ea \u05d4\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea \u05d4\u05de\u05e8\u05db\u05d6\u05d9\u05ea \u05dc\u05db\u05e0\u05e1\u05ea \u05d4-20 | \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05d0\u05e8\u05e6\u05d9\u05d5\u05ea",
+        "URLafterRedirect": "http://votes20.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.al-harishum.moch.gov.il/",
+        "Title": "\u05d1\u05d3\u05d9\u05e7\u05ea \u05de\u05e6\u05d1 \u05e8\u05d9\u05e9\u05d5\u05dd \u05d4\u05d3\u05d9\u05e8\u05d4",
+        "URLafterRedirect": "http://www.al-harishum.moch.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05e2\u05e8\u05db\u05ea \u05de\u05d9\u05d3\u05e2 \u05e2\u05dc \u05e8\u05d9\u05e9\u05d5\u05dd \u05de\u05e7\u05e8\u05e7\u05e2\u05d9\u05df"
+    },
+    {
+        "Site": "http://www.antidrugs.gov.il/",
+        "Title": "\u05d4\u05e8\u05e9\u05d5\u05ea \u05dc\u05de\u05d0\u05d1\u05e7 \u05d1\u05d0\u05dc\u05d9\u05de\u05d5\u05ea \u05e1\u05de\u05d9\u05dd \u05d5\u05d0\u05dc\u05db\u05d5\u05d4\u05d5\u05dc",
+        "URLafterRedirect": "http://www.antidrugs.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.antiquities.org.il/",
+        "Title": "Israel Antiquities Authority",
+        "URLafterRedirect": "http://www.antiquities.org.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.antitrust.gov.il/",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05d2\u05d1\u05dc\u05d9\u05dd \u05e2\u05e1\u05e7\u05d9\u05d9\u05dd",
+        "URLafterRedirect": "http://www.antitrust.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.archive.gov.il",
+        "Title": "\u05d0\u05e8\u05db\u05d9\u05d5\u05df \u05d4\u05de\u05d3\u05d9\u05e0\u05d4",
+        "URLafterRedirect": "http://www.archives.gov.il/",
+        "TimeToReport": "25",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.boi.org.il/en/Pages/Default.aspx",
+        "Title": "Bank of Israel",
+        "URLafterRedirect": "https://www.boi.org.il/en/Pages/Default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.boi.org.il/heb/Pages/HomePage.aspx",
+        "Title": "\u05d1\u05e0\u05e7 \u05d9\u05e9\u05e8\u05d0\u05dc - \u05d1\u05e0\u05e7 \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "URLafterRedirect": "https://www.boi.org.il/heb/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.cbs.gov.il/reader",
+        "Title": "\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc - \u05d4\u05dc\u05e9\u05db\u05d4 \u05d4\u05de\u05e8\u05db\u05d6\u05d9\u05ea \u05dc\u05e1\u05d8\u05d8\u05d9\u05e1\u05d8\u05d9\u05e7\u05d4",
+        "URLafterRedirect": "http://www.cbs.gov.il/reader",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.csc.gov.il/Pages/HomePage.aspx",
+        "Title": "\u05e0\u05e6\u05d9\u05d1\u05d5\u05ea \u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05de\u05d3\u05d9\u05e0\u05d4\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/Civil_Service_Commission",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.data.gov.il",
+        "Title": "\u05d1\u05e8\u05d5\u05db\u05d9\u05dd \u05d4\u05d1\u05d0\u05d9\u05dd - Government Data",
+        "URLafterRedirect": "https://data.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05d0\u05ea\u05e8 \u05de\u05d0\u05d2\u05e8\u05d9 \u05d4\u05de\u05d9\u05d3\u05e2 \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9\u05d9\u05dd"
+    },
+    {
+        "Site": "http://www.economy.gov.il/Trade/ConsumerProtection/Pages/default.aspx",
+        "Title": "\u05d4\u05e8\u05e9\u05d5\u05ea \u05dc\u05d4\u05d2\u05e0\u05ea \u05d4\u05e6\u05e8\u05db\u05df \u05d5\u05dc\u05e1\u05d7\u05e8 \u05d4\u05d5\u05d2\u05df\u00a0",
+        "URLafterRedirect": "http://www.economy.gov.il/Trade/ConsumerProtection/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.eitan.aka.idf.il/894-he/Eitan.aspx",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://www.eitan.aka.idf.il/894-he/Eitan.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d4\u05e2\u05e0\u05e3 \u05dc\u05d0\u05d9\u05ea\u05d5\u05e8 \u05e0\u05e2\u05d3\u05e8\u05d9\u05dd"
+    },
+    {
+        "Site": "http://www.fishery.moag.gov.il/",
+        "Title": "\u05d3\u05d9\u05d2 \u05d5\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05de\u05d9\u05dd | \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7 \u05d4\u05db\u05e4\u05e8",
+        "URLafterRedirect": "http://www.moag.gov.il/yhidotmisrad/fishery/pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.forms.gov.il/globaldata/getsequence/gethtmlform.aspx?formType=askVisaEng@tehila.gov.il",
+        "Title": "Request for a Visa to Enter Israel",
+        "URLafterRedirect": "https://www.forms.gov.il/globaldata/getsequence/gethtmlform.aspx?formType=askVisaEng@tehila.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.forms.gov.il/globaldata/getsequence/getsequence.aspx?formType=Amar@moh.health.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05d9\u05d1\u05d5\u05d0 \u05d0\u05de\"\u05e8",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formType=Amar_hasava7@moh.health.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.forms.gov.il/globaldata/getsequence/getsequence.aspx?formType=foodrequest@moh.health.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05e9\u05d7\u05e8\u05d5\u05e8 \u05de\u05e9\u05dc\u05d5\u05d7 \u05de\u05d6\u05d5\u05df \u05de\u05ea\u05d7\u05e0\u05ea \u05d4\u05d4\u05e1\u05d2\u05e8",
+        "URLafterRedirect": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=FoodRequest_pilot@moh.health.gov.il",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "http://www.hagnas.atal.idf.il",
+        "Title": "",
+        "URLafterRedirect": "http://www.hagnas.atal.idf.il/894-he/Sviva.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d0\u05d8\"\u05dc \u05d4\u05d2\u05e0\u05ea \u05d4\u05e1\u05d1\u05d9\u05d1\u05d4"
+    },
+    {
+        "Site": "http://www.hrights.mof.gov.il",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea-\u05de\u05d7\u05e9\u05d1\u05d5\u05df \u05d6\u05db\u05d5\u05d9\u05d5\u05ea",
+        "URLafterRedirect": "https://zakaim.mof.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05d7\u05e9\u05d1\u05d5\u05df \u05d6\u05db\u05d5\u05d9\u05d5\u05ea \u05dc\u05e0\u05d9\u05e6\u05d5\u05dc\u05d9 \u05d4\u05e9\u05d5\u05d0\u05d4"
+    },
+    {
+        "Site": "http://www.iaa.gov.il/he-IL/rashot/Pages/default.aspx",
+        "Title": "\n\u05e8\u05e9\u05d5\u05ea \u05e9\u05d3\u05d5\u05ea \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4",
+        "URLafterRedirect": "http://www.iaa.gov.il/he-IL/rashot/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.ilpatsearch.justice.gov.il/ui",
+        "Title": "\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc - \u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd",
+        "URLafterRedirect": "http://www.ilpatsearch.justice.gov.il/ui/",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05d0\u05d2\u05e8 \u05e8\u05e9\u05d5\u05ea \u05d4\u05e4\u05d8\u05e0\u05d8\u05d9\u05dd"
+    },
+    {
+        "Site": "http://www.ims.gov.il/ims/all_tahazit/",
+        "Title": "\u05d4\u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05de\u05d8\u05d0\u05d5\u05e8\u05d5\u05dc\u05d5\u05d2\u05d9 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 - \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://www.ims.gov.il/ims/all_tahazit/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.isa.gov.il",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05e0\u05d9\u05d9\u05e8\u05d5\u05ea \u05e2\u05e8\u05da :: \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://www.isa.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05e8\u05e9\u05d5\u05ea \u05dc\u05e0\u05d9\u05d9\u05e8\u05d5\u05ea \u05e2\u05e8\u05da"
+    },
+    {
+        "Site": "http://www.israeli-hope.gov.il",
+        "Title": "\u05d1\u05d9\u05ea \u05d4\u05e0\u05e9\u05d9\u05d0 - \u05ea\u05e7\u05d5\u05d5\u05d4 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea |",
+        "URLafterRedirect": "https://israeli-hope.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.israelnewtech.gov.il",
+        "Title": "\u05e7\u05d9\u05d3\u05d5\u05dd \u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d5\u05ea \u05de\u05d9\u05dd | \u05d0\u05e0\u05e8\u05d2\u05d9\u05d4 \u05de\u05ea\u05d7\u05d3\u05e9\u05ea - Israel NewTech",
+        "URLafterRedirect": "http://israelnewtech.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.justice.gov.il/Units/ApotroposKlali/Pages/default.aspx",
+        "Title": "\u05d4\u05d0\u05e4\u05d5\u05d8\u05e8\u05d5\u05e4\u05d5\u05e1 \u05d4\u05db\u05dc\u05dc\u05d9 \u05d5\u05d4\u05db\u05d5\u05e0\u05e1 \u05d4\u05e8\u05e9\u05de\u05d9 \u00a0-\u00a0\u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd",
+        "URLafterRedirect": "https://www.justice.gov.il/Units/ApotroposKlali/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.justice.gov.il/units/appealstribunal/Pages/default.aspx",
+        "Title": "\u05d1\u05ea\u05d9 \u05d4\u05d3\u05d9\u05df \u05dc\u05e4\u05d9 \u05d7\u05d5\u05e7 \u05d4\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05d9\u05e9\u05e8\u05d0\u05dc",
+        "URLafterRedirect": "https://www.gov.il/he/departments/ministry_of_justice_appeals_tribunal",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.justice.gov.il/Units/RashamHaptentim/Pages/Default.aspx",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05e4\u05d8\u05e0\u05d8\u05d9\u05dd \u00a0-\u00a0\u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd",
+        "URLafterRedirect": "https://www.justice.gov.il/Units/RashamHaptentim/Pages/Default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.justice.gov.il/Units/Reshomot/publications/Pages/OfficialGazette.aspx",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd \u00a0-\u00a0 \u05d9\u05dc\u05e7\u05d5\u05d8 \u05d4\u05e4\u05e8\u05e1\u05d5\u05de\u05d9\u05dd",
+        "URLafterRedirect": "https://www.justice.gov.il/Units/Reshomot/publications/Pages/OfficialGazette.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.kosher-kravi.idf.il/894-he/orchot.aspx",
+        "Title": "\u05d0\u05d5\u05e8\u05d7\u05d5\u05ea \u05d7\u05d9\u05d9\u05dd",
+        "URLafterRedirect": "http://www.kosher-kravi.idf.il/894-he/orchot.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05d7\u05dc\u05e7\u05ea \u05d4\u05db\u05d5\u05e9\u05e8 \u05d4\u05e7\u05e8\u05d1\u05d9"
+    },
+    {
+        "Site": "http://www.lapam.gov.il/",
+        "Title": "\u05dc\u05e4\u05de | \u05dc\u05e9\u05db\u05ea \u05d4\u05e4\u05e8\u05e1\u05d5\u05dd \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9\u05ea",
+        "URLafterRedirect": "http://www.lapam.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.mevaker.gov.il/he/Pages/default.aspx",
+        "Title": "\u05de\u05d1\u05e7\u05e8 \u05d4\u05de\u05d3\u05d9\u05e0\u05d4 - \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea\u00a0",
+        "URLafterRedirect": "http://www.mevaker.gov.il/he/Pages/default.aspx?AspxAutoDetectCookieSupport=1",
+        "TimeToReport": "15",
+        "Misc": "            "
+    },
+    {
+        "Site": "http://www.moag.gov.il",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea | \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7 \u05d4\u05db\u05e4\u05e8",
+        "URLafterRedirect": "https://www.moag.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": "            "
+    },
+    {
+        "Site": "http://www.moag.gov.il/subject/gis/Pages/default.aspx",
+        "Title": "\n             \u05de\u05e2\u05e8\u05db\u05ea \u05de\u05d9\u05d3\u05e2 \u05d2\u05d9\u05d0\u05d5\u05d2\u05e8\u05e4\u05d9 - GIS | \u05de\u05e9\u05e8\u05d3 \u05d4\u05d7\u05e7\u05dc\u05d0\u05d5\u05ea \u05d5\u05e4\u05d9\u05ea\u05d5\u05d7 \u05d4\u05db\u05e4\u05e8",
+        "URLafterRedirect": "https://www.moag.gov.il/subject/gis/Pages/default.aspx",
+        "TimeToReport": "20",
+        "Misc": "     "
+    },
+    {
+        "Site": "http://www.moc.gov.il/8-he/MOC.aspx",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05ea\u05e7\u05e9\u05d5\u05e8\u05ea",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_communications",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.mof.gov.il/",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d0\u05d5\u05e6\u05e8 - \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea\u00a0",
+        "URLafterRedirect": "https://mof.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.moin.gov.il",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05e4\u05e0\u05d9\u05dd",
+        "URLafterRedirect": "https://www.gov.il/he/departments/ministry_of_interior",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.molsa.gov.il",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4, \u05d4\u05e8\u05d5\u05d5\u05d7\u05d4 \u05d5\u05d4\u05e9\u05d9\u05e8\u05d5\u05ea\u05d9\u05dd \u05d4\u05d7\u05d1\u05e8\u05ea\u05d9\u05d9\u05dd - \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "https://www.molsa.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.nakhal.idf.il/",
+        "Title": "\u05e0\u05e6\u05d9\u05d1 \u05e7\u05d1\u05d9\u05dc\u05d5\u05ea \u05d4\u05d7\u05d9\u05d9\u05dc\u05d9\u05dd (\u05e0\u05e7\u05d7\"\u05dc)",
+        "URLafterRedirect": "http://www.nakhal.idf.il/894-he/Nakhal.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.navy.idf.il",
+        "Title": "\u05d6\u05e8\u05d5\u05e2 \u05d4\u05d9\u05dd",
+        "URLafterRedirect": "http://www.navy.idf.il/894-he/Navy.aspx",
+        "TimeToReport": "60",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.nihul.cma.gov.il/",
+        "Title": "\u05de\u05d7\u05e9\u05d1\u05d5\u05df \u05d3\u05de\u05d9 \u05e0\u05d9\u05d4\u05d5\u05dc - \u05e8\u05e9\u05d5\u05ea \u05e9\u05d5\u05e7 \u05d4\u05d4\u05d5\u05df, ",
+        "URLafterRedirect": "https://nihul.cma.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.nsc.gov.il/he/Pages/default.aspx",
+        "Title": "\u05d4\u05de\u05d8\u05d4 \u05dc\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05dc\u05d0\u05d5\u05de\u05d9",
+        "URLafterRedirect": "http://www.nsc.gov.il/he/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.pmo.gov.il/BranchesAndUnits/direcgeneral/Pages/Atudot.aspx",
+        "Title": "\u05e2\u05ea\u05d5\u05d3\u05d5\u05ea \u05dc\u05d9\u05e9\u05e8\u05d0\u05dc\u00a0",
+        "URLafterRedirect": "http://www.pmo.gov.il/BranchesAndUnits/direcgeneral/Pages/Atudot.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.pmo.gov.il/Pages/default.aspx",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/prime_ministers_office",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.pmo.gov.il/policyplanning/shituf/Pages/newTzibur.aspx",
+        "Title": "\u05e9\u05d9\u05ea\u05d5\u05e3 \u05e6\u05d9\u05d1\u05d5\u05e8",
+        "URLafterRedirect": "http://www.pmo.gov.il/policyplanning/shituf/Pages/newTzibur.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.police.gov.il",
+        "Title": "\u05de\u05e9\u05d8\u05e8\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/israel_police",
+        "TimeToReport": "15",
+        "Misc": "\u05d0\u05ea\u05e8 \u05d9\u05e9\u05df"
+    },
+    {
+        "Site": "http://www.president.gov.il/",
+        "Title": "\u05d1\u05d9\u05ea \u05d4\u05e0\u05e9\u05d9\u05d0",
+        "URLafterRedirect": "https://www.gov.il/he/departments/president_of_the_state_of_israel",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.soreq.gov.il/",
+        "Title": "\u05d4\u05de\u05e8\u05db\u05d6 \u05dc\u05de\u05d7\u05e7\u05e8 \u05d2\u05e8\u05e2\u05d9\u05e0\u05d9 \u05e9\u05d5\u05e8\u05e7 | \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "http://soreq.gov.il/mmg/Pages/Home.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.sviva.gov.il",
+        "Title": "\u05d4\u05de\u05e9\u05e8\u05d3 \u05dc\u05d4\u05d2\u05e0\u05ea \u05d4\u05e1\u05d1\u05d9\u05d1\u05d4",
+        "URLafterRedirect": "http://www.sviva.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.tazkirim.gov.il/Pages/default.aspx",
+        "Title": "\u05e7\u05e9\u05e8\u05d9 \u05de\u05de\u05e9\u05dc",
+        "URLafterRedirect": "http://www.tazkirim.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05e4\u05d5\u05e8\u05d8\u05dc \u05d4\u05e9\u05d9\u05e8\u05d5\u05ea\u05d9\u05dd \u05d5\u05d4\u05de\u05d9\u05d3\u05e2 \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9"
+    },
+    {
+        "Site": "http://www.tehila.gov.il",
+        "Title": "",
+        "URLafterRedirect": "https://egov.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05d3\u05e3 \u05d4\u05e1\u05d1\u05e8 \u05e2\u05dc \u05d0\u05d1\u05d8\u05d7\"\u05de"
+    },
+    {
+        "Site": "http://www.trademarks.justice.gov.il/",
+        "Title": "\u05d0\u05ea\u05e8 \u05d7\u05d9\u05e4\u05d5\u05e9 \u05e1\u05d9\u05de\u05e0\u05d9 \u05de\u05e1\u05d7\u05e8",
+        "URLafterRedirect": "http://www.trademarks.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.votes-19.gov.il",
+        "Title": "\u05d5\u05e2\u05d3\u05ea \u05d4\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea \u05d4\u05de\u05e8\u05db\u05d6\u05d9\u05ea \u05dc\u05db\u05e0\u05e1\u05ea \u05d4-19 | \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05d0\u05e8\u05e6\u05d9\u05d5\u05ea",
+        "URLafterRedirect": "http://www.votes-19.gov.il/nationalresults",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.water.gov.il/hebrew/Pages/home.aspx",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05de\u05d9\u05dd",
+        "URLafterRedirect": "http://www.water.gov.il/hebrew/Pages/home.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.yadvashem.org/",
+        "Title": "Yad Vashem. The World Holocaust Remembrance Center | www.yadvashem.org |",
+        "URLafterRedirect": "https://www.yadvashem.org/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://www.yohalan.aka.idf.il",
+        "Title": "\u05d9\u05d5\u05d4\u05dc\"\u05df",
+        "URLafterRedirect": "http://www.yohalan.aka.idf.il/894-he/Yohalan.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://ADMIN.FORMS.GOV.IL",
+        "Title": "\u05d0\u05ea\u05e8 \u05ea\u05e4\u05e2\u05d5\u05dc \u05d8\u05e4\u05e1\u05d9\u05dd \u05d1\u05d9\u05d9\u05e6\u05d5\u05e8",
+        "URLafterRedirect": "https://admin.forms.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://ADMIN.SCA.FORMS.GOV.IL",
+        "Title": "\u05d0\u05ea\u05e8 \u05ea\u05e4\u05e2\u05d5\u05dc \u05d8\u05e4\u05e1\u05d9\u05dd \u05db\u05e8\u05d9\u05e1 \u05d7\u05db\u05dd",
+        "URLafterRedirect": "https://admin.sca.forms.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://ADMIN.TEST.FORMS.GOV.IL",
+        "Title": "\u05d0\u05ea\u05e8 \u05ea\u05e4\u05e2\u05d5\u05dc \u05d8\u05e4\u05e1\u05d9\u05dd \u05d1\u05d3\u05d9\u05e7\u05d5\u05ea",
+        "URLafterRedirect": "https://admin.test.forms.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://ami.mof.gov.il/Tas/Default.aspx?w=1920&h=1200&",
+        "Title": "TAS - Login",
+        "URLafterRedirect": "https://ami.mof.gov.il/Tas/Default.aspx?w=1920&h=1200&",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://apacforms.justice.gov.il",
+        "Title": "\u05d4\u05db\u05d5\u05e0\u05e1 \u05d4\u05e8\u05e9\u05de\u05d9 Online",
+        "URLafterRedirect": "https://apacforms.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://app.boi.gov.il/PamReq/faces/Login/login.jspx",
+        "Title": "login",
+        "URLafterRedirect": "https://app.boi.gov.il/PamReq/faces/Login/login.jspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d1\u05e0\u05e7 \u05d9\u05e9\u05e8\u05d0\u05dc - \u05d4\u05e4\u05d9\u05e7\u05d5\u05d7 \u05e2\u05dc \u05d4\u05d1\u05e0\u05e7\u05d9\u05dd - \u05de\u05e2\u05e8\u05db\u05ea \u05e2\u05de\u05dc\u05d5\u05ea"
+    },
+    {
+        "Site": "https://app.boi.gov.il/pls/lmh_web/pl_entrance.ident",
+        "Title": "\u05d9\u05d7\u05d9\u05d3\u05ea \u05e9\u05d5\u05e7 \u05de\u05d8\"\u05d7 \u05d5\u05d3\u05d9\u05d5\u05d5\u05d7\u05d9\u05dd \u05d9\u05e9\u05d9\u05e8\u05d9\u05dd",
+        "URLafterRedirect": "https://app.boi.gov.il/pls/lmh_web/pl_entrance.ident",
+        "TimeToReport": "15",
+        "Misc": "\u05d1\u05e0\u05e7 \u05d9\u05e9\u05e8\u05d0\u05dc"
+    },
+    {
+        "Site": "https://app.boi.gov.il/pls/pdk_web/pdkw.a1",
+        "Title": "\u05de\u05e2\u05e8\u05db\u05ea \u05d3\u05d9\u05e8\u05e7\u05d8\u05d5\u05e8\u05d9\u05dd",
+        "URLafterRedirect": "https://app.boi.gov.il/pls/pdk_web/pdkw.a1",
+        "TimeToReport": "15",
+        "Misc": "\u05d1\u05e0\u05e7 \u05d9\u05e9\u05e8\u05d0\u05dc"
+    },
+    {
+        "Site": "https://app.boi.gov.il/pls/pvk_web/pvk_start",
+        "Title": "\u05de\u05e2\u05e8\u05db\u05ea \u05de\u05d5\u05e9\u05dc\"\u05db",
+        "URLafterRedirect": "https://app.boi.gov.il/pls/pvk_web/pvk_start",
+        "TimeToReport": "15",
+        "Misc": "\u05d1\u05e0\u05e7 \u05d9\u05e9\u05e8\u05d0\u05dc"
+    },
+    {
+        "Site": "https://archmapi.gov.il",
+        "Title": "",
+        "URLafterRedirect": "https://archmapi.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05ea\u05e6\u05e4\u05d9\u05ea- \u05d0\u05e8\u05db\u05d9\u05d5\u05df \u05de\u05e4\u05d5\u05ea \u05d5\u05de\u05e1\u05de\u05db\u05d9 \u05e7\u05d3\u05e1\u05d8\u05e8"
+    },
+    {
+        "Site": "https://BAMA.MOPS.GOV.IL",
+        "Title": "\u05de\u05e2\u05e8\u05db\u05ea \u05d1\u05de\u05d4 - \u05d1\u05e7\u05e8\u05d4, \u05de\u05d3\u05d9\u05d3\u05d4, \u05d4\u05e2\u05e8\u05db\u05d4",
+        "URLafterRedirect": "https://bama.mops.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://contactinfo.cma.gov.il",
+        "Title": "\u05de\u05e2\u05e8\u05db\u05ea \u05d3\u05d9\u05d5\u05d5\u05d7 \u05d1\u05e2\u05dc\u05d9 \u05ea\u05e4\u05e7\u05d9\u05d3 3.1.0.11",
+        "URLafterRedirect": "https://contactinfo.cma.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://CPA-SC.JUSTICE.GOV.IL",
+        "Title": "\u05d0\u05ea\u05e8 \u05d9\u05d7\u05d9\u05d3\u05d5\u05ea \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea - \u05d0\u05ea\u05e8 \u05d9\u05d7\u05d9\u05d3\u05d5\u05ea \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea",
+        "URLafterRedirect": "https://cpa-sc.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://crm-egov.govnet.gov.il/itcm/",
+        "Title": "\u05dc\u05d5\u05d7\u05d5\u05ea \u05de\u05d7\u05d5\u05d5\u05e0\u05d9\u05dd: \u05e8\u05e9\u05d5\u05ea \u05ea\u05e7\u05e9\u05d5\u05d1 - \u05de\u05d1\u05d8 \u05e2\u05dc - Microsoft Dynamics 365",
+        "URLafterRedirect": "https://crm-egov.govnet.gov.il/ITCM/main.aspx#",
+        "TimeToReport": "15",
+        "Misc": "Smart Card- \u05de\u05d5\u05e2\u05d3"
+    },
+    {
+        "Site": "https://crm-egov.govnet.gov.il/meitar/",
+        "Title": "\u05dc\u05d5\u05d7\u05d5\u05ea \u05de\u05d7\u05d5\u05d5\u05e0\u05d9\u05dd: \u05dc\u05d5\u05d7 \u05de\u05d7\u05d5\u05d5\u05e0\u05d9\u05dd - \u05de\u05e0\u05d4\u05dc \u05de\u05de\u05e9\u05dc \u05d6\u05de\u05d9\u05df - Microsoft Dynamics 365",
+        "URLafterRedirect": "https://crm-egov.govnet.gov.il/MEITAR/main.aspx#",
+        "TimeToReport": "15",
+        "Misc": "Smart Card- \u05de\u05d9\u05ea\u05e8"
+    },
+    {
+        "Site": "https://EMPLOYERSINFO.CMA.GOV.IL",
+        "Title": "\u05de\u05e2\u05e8\u05db\u05ea \u05d0\u05d5\u05ea\u05d5\u05ea - \u05de\u05d9\u05d3\u05e2 \u05dc\u05de\u05e2\u05e1\u05e7\u05d9\u05dd ",
+        "URLafterRedirect": "https://employersinfo.cma.gov.il/#/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://ext-mail.gov.il",
+        "Title": "Outlook",
+        "URLafterRedirect": "https://ext-mail.gov.il/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fext-mail.gov.il%2fowa%2f",
+        "TimeToReport": "15",
+        "Misc": "MAIL GOV"
+    },
+    {
+        "Site": "https://fileretrieval.justice.gov.il",
+        "Title": "\u05d4\u05d5\u05e8\u05d3\u05ea \u05de\u05e1\u05de\u05da/\u05ea\u05d9\u05e7",
+        "URLafterRedirect": "https://fileretrieval.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://foi.gov.il",
+        "Title": "\u05d7\u05d5\u05e7 \u05d7\u05d5\u05e4\u05e9 \u05d4\u05de\u05d9\u05d3\u05e2 | \u05d7\u05d5\u05e7 \u05d7\u05d5\u05e4\u05e9 \u05d4\u05de\u05d9\u05d3\u05e2",
+        "URLafterRedirect": "https://foi.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=amutot18@justice.gov.il",
+        "Title": "\u05d3\u05d5\"\u05d7 \u05e2\u05dc \u05ea\u05e8\u05d5\u05de\u05d4 \u05de\u05d9\u05e9\u05d5\u05ea \u05de\u05d3\u05d9\u05e0\u05d9\u05ea \u05d6\u05e8\u05d4",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=amutot18@justice.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=amutot5@justice.gov.il",
+        "Title": "\u05d3\u05d9\u05df \u05d5\u05d7\u05e9\u05d1\u05d5\u05df \u05de\u05d9\u05dc\u05d5\u05dc\u05d9",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=amutot5@justice.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=bioPassport@piba.gov.il",
+        "Title": "\u05ea\u05e9\u05dc\u05d5\u05dd \u05e2\u05d1\u05d5\u05e8 \u05d3\u05e8\u05db\u05d5\u05df/ \u05ea\u05e2\u05d5\u05d3\u05ea \u05de\u05e2\u05d1\u05e8",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=bioPassport@piba.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=CannabisReq@moh.gov.il",
+        "Title": "\u05d8\u05d5\u05e4\u05e1 \u05d1\u05e7\u05e9\u05d4 \u05dc\u05e8\u05d9\u05e9\u05d9\u05d5\u05df \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05e7\u05e0\u05d1\u05d9\u05e1 \u05e8\u05e4\u05d5\u05d0\u05d9",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=CannabisReq@moh.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=Competitiveparts@most.gov.il",
+        "Title": "\u05e9\u05d7\u05e8\u05d5\u05e8 \u05d7\u05d3-\u05e4\u05e2\u05de\u05d9 \u05dc\u05d7\u05dc\u05e7\u05d9 \u05d7\u05d9\u05dc\u05d5\u05e3 \u05dc\u05db\u05dc\u05d9 \u05ea\u05d7\u05e8\u05d5\u05ea\u05d9 \u05d1\u05d9\u05d1\u05d5\u05d0 \u05d0\u05d9\u05e9\u05d9",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=Competitiveparts@most.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=CompetitiveTools@most.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05e9\u05d7\u05e8\u05d5\u05e8 \u05d7\u05d3 \u05e4\u05e2\u05de\u05d9 \u05e9\u05dc \u05db\u05dc\u05d9 \u05ea\u05d7\u05e8\u05d5\u05ea\u05d9 \u05d1\u05d9\u05d1\u05d5\u05d0 \u05d0\u05d9\u05e9\u05d9",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=CompetitiveTools@most.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=dc5@moital.gov.il",
+        "Title": "\u05e2\u05d3\u05db\u05d5\u05e0\u05d8 - \u05e9\u05dc\u05d9\u05d7\u05ea \u05de\u05e1\u05de\u05db\u05d9\u05dd \u05dc\u05e2\u05d3\u05db\u05d5\u05df \u05dc\u05d1\u05e7\u05e9\u05d4 \u05e7\u05d9\u05d9\u05de\u05ea",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=dc5@moital.gov.il",
+        "TimeToReport": "15",
+        "Misc": "\u05ea\u05de\u05ea - \u05d4\u05e9\u05dc\u05de\u05ea \u05de\u05e1\u05de\u05db\u05d9\u05dd \u05dc\u05de\u05e2\u05d5\u05e0\u05d5\u05ea \u05d9\u05d5\u05dd"
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=engineer@moital.gov.il",
+        "Title": "\u05e9\u05d0\u05dc\u05d5\u05df \u05e8\u05d9\u05e9\u05d5\u05dd \u05d1\u05e4\u05e0\u05e7\u05e1 \u05de\u05d4\u05e0\u05d3\u05e1\u05d9\u05dd \u05d5\u05d0\u05d3\u05e8\u05d9\u05db\u05dc\u05d9\u05dd",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=engineer@moital.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=fti1new@moital.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05e7\u05d1\u05dc\u05ea \u05d0\u05d9\u05e9\u05d5\u05e8/\u05d4\u05d9\u05ea\u05e8 \u05d9\u05d1\u05d5\u05d0",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=fti1new@moital.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=mr19@moin.gov.il",
+        "Title": "\u05e8\u05d9\u05e9\u05d5\u05dd \u05e9\u05dd \u05d4\u05e0\u05d5\u05dc\u05d3/\u05ea",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=mr19@moin.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=mr2a@moin.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05e7\u05d1\u05dc\u05ea \u05ea\u05e2\u05d5\u05d3\u05ea \u05dc\u05d9\u05d3\u05d4",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=mr2a@moin.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=mr2c@moin.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05e7\u05d1\u05dc\u05ea \u05ea\u05e2\u05d5\u05d3\u05ea \u05e4\u05d8\u05d9\u05e8\u05d4",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=mr2c@moin.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=mr31a@moin.gov.il",
+        "Title": "\u05d0\u05d9\u05ea\u05d5\u05e8 \u05de\u05e2\u05df",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=mr31a@moin.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=T1500@btl.gov.il",
+        "Title": "\u05ea\u05d1\u05d9\u05e2\u05d4 \u05dc\u05d3\u05de\u05d9 \u05d0\u05d1\u05d8\u05dc\u05d4",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=T1500@btl.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=T355@btl.gov.il",
+        "Title": "\u05ea\u05d1\u05d9\u05e2\u05d4 \u05dc\u05ea\u05e9\u05dc\u05d5\u05dd \u05d3\u05de\u05d9 \u05dc\u05d9\u05d3\u05d4 \u05dc\u05d9\u05d5\u05dc\u05d3\u05ea",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=T355@btl.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=T6101@btl.gov.il",
+        "Title": "\u05d3\u05d9\u05df \u05d5\u05d7\u05e9\u05d1\u05d5\u05df \u05e8\u05d1 \u05e9\u05e0\u05ea\u05d9",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=T6101@btl.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=volunteer@pmo.gov.il",
+        "Title": "\u05d8\u05d5\u05e4\u05e1 \u05d1\u05e7\u05e9\u05ea \u05d4\u05e6\u05d8\u05e8\u05e4\u05d5\u05ea \u05dc\u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05dc\u05d0\u05d5\u05de\u05d9/\u05d4\u05ea\u05e0\u05d3\u05d1\u05d5\u05ea \u05e7\u05d4\u05d9\u05dc\u05ea\u05d9\u05ea",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=volunteer@pmo.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getsequence.aspx?formtype=amutot6@justice.gov.il",
+        "Title": "\u05d3\u05d9\u05d5\u05d5\u05d7 \u05e2\u05dc \u05d4\u05d7\u05dc\u05d8\u05ea \u05d0\u05e1\u05d9\u05e4\u05d4 \u05db\u05dc\u05dc\u05d9\u05ea \u05e9\u05dc \u05e2\u05de\u05d5\u05ea\u05d4",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=amutot6@justice.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getsequence.aspx?formType=asp@mot.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05d9\u05d1\u05d5\u05d0 \u05dc\u05db\u05dc\u05d9 \u05e9\u05d9\u05d9\u05d8 \u05d5\u05dc\u05d7\u05dc\u05e7\u05d9 \u05d7\u05d9\u05dc\u05d5\u05e3 \u05e9\u05dc \u05db\u05dc\u05d9 \u05e9\u05d9\u05d9\u05d8 (\u05d1\u05dc\u05d1\u05d3)",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=asp_hasava@mot.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getsequence.aspx?formtype=chillerImport@mni.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05d9\u05d1\u05d5\u05d0 \u05e6'\u05d9\u05dc\u05e8\u05d9\u05dd",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=chillerImport_hasava@mni.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getsequence.aspx?formType=commercialCarImport@mot.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05d9\u05d1\u05d5\u05d0 \u05de\u05e1\u05d7\u05e8\u05d9 \u05e9\u05dc \u05db\u05dc\u05d9 \u05e8\u05db\u05d1",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formType=commercialCarImport@mot.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getsequence.aspx?formType=KamatCommunication@idf.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05d0\u05d9\u05e9\u05d5\u05e8 \u05d9\u05d1\u05d5\u05d0 \u05e6\u05d9\u05d5\u05d3 \u05ea\u05e7\u05e9\u05d5\u05e8\u05ea - \u05dc\u05e9\u05d8\u05d7\u05d9 \u05d4\u05e8\u05e9\"\u05e4 ",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=KamatCommunication_hasava@idf.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getsequence.aspx?formType=lrenew@mops.gov.il",
+        "Title": "\u05d7\u05d9\u05d3\u05d5\u05e9 \u05e8\u05d9\u05e9\u05d9\u05d5\u05df",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formType=lrenew@mops.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getsequence.aspx?formType=MedicineImport@moh.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05d0\u05d9\u05e9\u05d5\u05e8 \u05d9\u05d1\u05d5\u05d0 \u05ea\u05db\u05e9\u05d9\u05e8 \u05e8\u05e4\u05d5\u05d0\u05d9 \u05e2\u05dc \u05e4\u05d9 \u05ea\u05e7\u05e0\u05d4 29 (\u05d0') 3",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formType=medicineImport_hasava@moh.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getsequence.aspx?formtype=mr1@moin.gov.il",
+        "Title": "\u05ea\u05e9\u05dc\u05d5\u05dd \u05e2\u05d1\u05d5\u05e8 \u05ea\u05e2\u05d5\u05d3\u05ea \u05d6\u05d4\u05d5\u05ea \u05e9\u05d0\u05d1\u05d3\u05d4/\u05e0\u05d2\u05e0\u05d1\u05d4/\u05d4\u05d5\u05e9\u05d7\u05ea\u05d4",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=mr1@moin.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getsequence.aspx?formtype=prtrnew@sviva.gov.il",
+        "Title": "\u05d8\u05d5\u05e4\u05e1 \u05d3\u05d9\u05d5\u05d5\u05d7 \u05dc\u05de\u05e8\u05e9\u05dd \u05e4\u05dc\u05d9\u05d8\u05d5\u05ea \u05d5\u05d4\u05e2\u05d1\u05e8\u05d5\u05ea \u05dc\u05e1\u05d1\u05d9\u05d1\u05d4 (PRTR)",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=prtrnew@sviva.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://FP3.FORMS.GOV.IL",
+        "Title": "\u05d8\u05d5\u05e4\u05e1 \u05d3\u05d5\u05d2\u05de\u05d4",
+        "URLafterRedirect": "https://fp3.forms.gov.il/globaldata/getsequence/gethtmlform.aspx?formtype=demo1",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://GEOADMIN.MAPI.GOV.IL",
+        "Title": "\u05e9\u05d0\u05d9\u05dc\u05ea\u05ea \u05e0\u05e7\u05d5\u05d3\u05d5\u05ea",
+        "URLafterRedirect": "https://geoadmin.mapi.gov.il/MainLogin.aspx?ReturnUrl=%2f",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://goodsreg.mof.gov.il",
+        "Title": "\u05d5\u05d9\u05e1\u05d5\u05ea \u05d8\u05d5\u05d1\u05d9\u05df",
+        "URLafterRedirect": "https://goodsreg.mof.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d0\u05d5\u05e6\u05e8"
+    },
+    {
+        "Site": "https://GOVPRO.GOV.IL",
+        "Title": "\u05e4\u05d5\u05e8\u05d8\u05dc \u05dc\u05e7\u05d5\u05d7\u05d5\u05ea \u05de\u05de\u05e9\u05dc \u05d6\u05de\u05d9\u05df",
+        "URLafterRedirect": "https://govpro.gov.il/userauthorize",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://harb.cma.gov.il",
+        "Title": "\u05d4\u05e8 \u05d4\u05d1\u05d9\u05d8\u05d5\u05d7",
+        "URLafterRedirect": "https://harb.cma.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://helpmegaza.com",
+        "Title": "",
+        "URLafterRedirect": "https://helpmegaza.com/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": "HELP ME GAZA"
+    },
+    {
+        "Site": "https://hishtalmuyot.justice.gov.il/General/InstituteRegistration.aspx",
+        "Title": "\u05d4\u05e8\u05e9\u05de\u05d4 \u05dc\u05de\u05db\u05d5\u05df \u05dc\u05d4\u05e9\u05ea\u05dc\u05de\u05d5\u05d9\u05d5\u05ea",
+        "URLafterRedirect": "https://hishtalmuyot.justice.gov.il/General/InstituteRegistration.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd"
+    },
+    {
+        "Site": "https://HISHTALMUYOTSC.JUSTICE.GOV.IL",
+        "Title": "\u05de\u05db\u05d5\u05df \u05dc\u05d4\u05e9\u05ea\u05dc\u05de\u05d5\u05ea \u05e4\u05e8\u05e7\u05dc\u05d9\u05d8\u05d9\u05dd \u05d5\u05d9\u05d5\u05e2\u05e6\u05d9\u05dd \u05de\u05e9\u05e4\u05d8\u05d9\u05d9\u05dd \u00a0-\u00a0\u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd",
+        "URLafterRedirect": "https://www.justice.gov.il/Units/HamrkazLhestlmoyotPraklitim/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://hozrimgca.mof.gov.il",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05d7\u05d1\u05e8\u05d5\u05ea",
+        "URLafterRedirect": "https://hozrimgca.mof.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://hozrimsachar.mof.gov.il",
+        "Title": "\u05d7\u05d5\u05d6\u05e8\u05d9 \u05e9\u05db\u05e8",
+        "URLafterRedirect": "https://hozrimsachar.mof.gov.il/",
+        "TimeToReport": "20",
+        "Misc": ""
+    },
+    {
+        "Site": "https://hozrimtash.mof.gov.il",
+        "Title": "\u05d7\u05d5\u05d6\u05e8\u05d9 \u05e9\u05d5\u05ea\"\u05e9",
+        "URLafterRedirect": "https://hozrimtash.mof.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d0\u05d5\u05e6\u05e8"
+    },
+    {
+        "Site": "https://ICA-ONLINE.JUSTICE.GOV.IL",
+        "Title": "\u05e0\u05e1\u05d7 \u05d7\u05d1\u05e8\u05d4 - \u05ea\u05d0\u05d2\u05d9\u05d3\u05d9\u05dd Online",
+        "URLafterRedirect": "https://ica-online.justice.gov.il/Request/OpenRequest?rt=CompanyExtract",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://ILR-ONLINE.JUSTICE.GOV.IL",
+        "Title": "",
+        "URLafterRedirect": "https://ilr-online.justice.gov.il/TabuRequest/ErrorPage",
+        "TimeToReport": "15",
+        "Misc": "\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05d8\u05d0\u05e1\u05d5 ONLINE"
+    },
+    {
+        "Site": "https://importstatus.mof.gov.il/",
+        "Title": "",
+        "URLafterRedirect": "https://importstatus.mof.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05e2\u05e8\u05db\u05ea \u05de\u05e1\u05dc\u05d5\u05dc (Smart Card)"
+    },
+    {
+        "Site": "https://ims.data.gov.il",
+        "Title": "\u05de\u05d0\u05d2\u05e8 \u05e0\u05ea\u05d5\u05e0\u05d9 \u05d4\u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05de\u05d8\u05d0\u05d5\u05e8\u05d5\u05dc\u05d5\u05d2\u05d9 | \u05d0\u05ea\u05e8 \u05de\u05d0\u05d2\u05e8\u05d9 \u05d4\u05de\u05d9\u05d3\u05e2 \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9\u05d9\u05dd | Data.gov.il",
+        "URLafterRedirect": "https://ims.data.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://INDC.IDF.IL",
+        "Title": "indc.idf.il",
+        "URLafterRedirect": "https://indc.idf.il/my.policy",
+        "TimeToReport": "15",
+        "Misc": "\u05d4\u05de\u05db\u05dc\u05dc\u05d5\u05ea \u05d4\u05e6\u05d1\u05d0\u05d9\u05d5\u05ea \u05e6\u05d4\"\u05dc"
+    },
+    {
+        "Site": "https://itur.mof.gov.il/#/main/landing",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea - \u05d4\u05e8 \u05d4\u05db\u05e1\u05e3",
+        "URLafterRedirect": "https://itur.mof.gov.il/#/main/landing",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://kehilot.molsa.gov.il",
+        "Title": "\u05e7\u05d4\u05d9\u05dc\u05d5\u05ea \u05de\u05e7\u05e6\u05d5\u05e2\u05d9\u05d5\u05ea",
+        "URLafterRedirect": "https://www.kehilot.molsa.gov.il/Kehilot/Pages/wfLogin.aspx?ReturnUrl=%2fKehilot%2fdefault.aspx%3fNRMODE%3dPublished%26NRNODEGUID%3d%257bC7F8728B-77C6-4C5E-B01D-CC9268347F03%257d%26NRORIGINALURL%3d%252fkehilot%26NRCACHEHINT%3dGuest&NRMODE=Published&NRNODEGUID=%7bC7F8728B-77C6-4C5E-B01D-CC9268347F03%7d&NRORIGINALURL=%2fkehilot&NRCACHEHINT=Guest",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05e8\u05d5\u05d5\u05d7\u05d4 \u05d5\u05d4\u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05d4\u05d7\u05d1\u05e8\u05ea\u05d9\u05d9\u05dd"
+    },
+    {
+        "Site": "https://LEGALCAPACITY-SC.JUSTICE.GOV.IL",
+        "Title": "\u05db\u05e9\u05e8\u05d5\u05ea \u05de\u05e9\u05e4\u05d8\u05d9\u05ea \u05d5\u05d0\u05e4\u05d5\u05d8\u05e8\u05d5\u05e4\u05e1\u05d5\u05ea Online",
+        "URLafterRedirect": "https://legalcapacity-sc.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://m.miluim-ishi.aka.idf.il/#/",
+        "Title": "",
+        "URLafterRedirect": "https://m.miluim-ishi.aka.idf.il/#/",
+        "TimeToReport": "15",
+        "Misc": "\u05de\u05d9\u05dc\u05d5\u05d0\u05d9\u05dd \u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05d0\u05d9\u05d6\u05d5\u05e8 \u05d0\u05d9\u05e9\u05d9"
+    },
+    {
+        "Site": "https://madim.atal.idf.il/Login.aspx?ReturnUrl=/Default.aspx",
+        "Title": "\u05de\u05d3\u05d9\u05dd \u05e2\u05d3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "https://madim.atal.idf.il/Login.aspx?ReturnUrl=/Default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://MAGNUM.MOF.GOV.IL",
+        "Title": "\u05de\u05d2\u05e0\u05d5\"\u05dd",
+        "URLafterRedirect": "https://magnum.mof.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://MAVDIL.JUSTICE.GOV.IL",
+        "Title": "\u05d1\u05d9\u05ea \u05d4\u05d3\u05d9\u05df \u05dc\u05e2\u05e8\u05e8\u05d9\u05dd",
+        "URLafterRedirect": "https://mavdil.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://MISHPATAN.MMI.GOV.IL",
+        "Title": "\u05de\u05e9\u05e4\u05d8\u05df",
+        "URLafterRedirect": "https://mishpatan.mmi.gov.il/mishpatan/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://MNG.MSENSE.TEHILA.GOV.IL",
+        "Title": " Make Sense ",
+        "URLafterRedirect": "https://mng.msense.tehila.gov.il/account/login?ReturnUrl=%2f",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://MNG.OCTOPUS.GOV.IL",
+        "Title": "OCTOPUS",
+        "URLafterRedirect": "https://mng.octopus.gov.il/Account/Login?ReturnUrl=%2f",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://mng.recaptcha.gov.il/#/apps/list",
+        "Title": "Tehila.Recaptcha.Management.Front",
+        "URLafterRedirect": "https://mng.recaptcha.gov.il/#/apps/list",
+        "TimeToReport": "15",
+        "Misc": "Management Tool Smart Card"
+    },
+    {
+        "Site": "https://mossad.gov.il",
+        "Title": "",
+        "URLafterRedirect": "https://www.mossad.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d4\u05de\u05d5\u05e1\u05d3"
+    },
+    {
+        "Site": "https://NEW.APOTSCTEST.JUSTICE.GOV.IL",
+        "Title": "\u05de\u05e0\u05d4\u05dc\u05d9\u05dd \u05de\u05d9\u05d5\u05d7\u05d3\u05d9\u05dd",
+        "URLafterRedirect": "https://new.apotsctest.justice.gov.il/Home/Poshtim",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://new.govmap.gov.il",
+        "Title": "Govmap \u05de\u05e4\u05d5\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "URLafterRedirect": "https://new.govmap.gov.il/?c=204000,595000&z=0",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://t.hishtalmuyotsc.justice.gov.il/TempPortal.aspx",
+        "Title": "\u05de\u05d3\u05de\u05d4 \u05e4\u05d5\u05e8\u05d8\u05dc \u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd \u05dc\u05d1\u05d3\u05d9\u05e7\u05d5\u05ea",
+        "URLafterRedirect": "https://t.hishtalmuyotsc.justice.gov.il/TempPortal.aspx",
+        "TimeToReport": "30",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://NEW.IMPORTSTATUS.GOV.IL",
+        "Title": "\u05de\u05e2\u05e8\u05db\u05ea \u05de\u05e1\u05dc\u05d5\u05dc",
+        "URLafterRedirect": "https://new.importstatus.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://PCTONLINE-SC.JUSTICE.GOV.IL",
+        "Title": "PCT Login",
+        "URLafterRedirect": "https://pctonline-sc.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://PDOONLINE-SC.JUSTICE.GOV.IL",
+        "Title": "\u05d4\u05d5\u05e8\u05d3\u05ea \u05d8\u05d5\u05e4\u05e1 \u05d3\u05e8\u05d9\u05e9\u05d4 \u05dc\u05ea\u05e9\u05dc\u05d5\u05dd \u05e9\u05db\u05e8 \u05d8\u05e8\u05d7\u05d4 \u05d1\u05d2\u05d9\u05df \u05d9\u05e9\u05d9\u05d1\u05d5\u05ea",
+        "URLafterRedirect": "https://pdoonline-sc.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://pe.cma.gov.il",
+        "Title": "\u05d0\u05ea\u05e8 \u05dc\u05d4\u05d2\u05e9\u05ea \u05e4\u05e0\u05d9\u05d5\u05ea \u05d4\u05e6\u05d9\u05d1\u05d5\u05e8 - \u05e8\u05e9\u05d5\u05ea \u05e9\u05d5\u05e7 \u05d4\u05d4\u05d5\u05df",
+        "URLafterRedirect": "https://pe.cma.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://PHONEBOOK.CSC.GOV.IL",
+        "Title": "\u05e1\u05e4\u05e8 \u05d8\u05dc\u05e4\u05d5\u05e0\u05d9\u05dd",
+        "URLafterRedirect": "https://phonebook.csc.gov.il/home",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://PIM.GOV.IL",
+        "Title": "Password Vault Sign In",
+        "URLafterRedirect": "https://pim.gov.il/PasswordVault/logon.aspx?ReturnUrl=%2fPasswordVault%2fdefault.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://PLEDGESSC.JUSTICE.GOV.IL",
+        "Title": "\u05d1\u05e7\u05e9\u05ea \u05e2\u05d9\u05d5\u05df \u05d1\u05de\u05e9\u05db\u05d5\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3\u05d9\u05dd Online",
+        "URLafterRedirect": "https://ica-online.justice.gov.il/SearchPledge/PledgeBrowse",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://PMEKOMI.MOIN.GOV.IL",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05e4\u05e0\u05d9\u05dd - \u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05de\u05e2\u05e8\u05db\u05ea",
+        "URLafterRedirect": "https://pmekomi.moin.gov.il/_layouts/15/Moin.Common/Pages/Login.aspx?msg=login",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://prdar2.mof.gov.il/#/ExternalUserGetway/ChooseReportType",
+        "Title": "",
+        "URLafterRedirect": "https://prdar2.mof.gov.il/#/ExternalUserGetway/ChooseReportType",
+        "TimeToReport": "15",
+        "Misc": "Smart Card- \u05de\u05e2\u05e8\u05db\u05ea \u05e8\u05d5\u05d0\u05d9 \u05d7\u05e9\u05d1\u05d5\u05df \u05d4\u05e9\u05dc\u05de\u05ea \u05d3\u05d9\u05d5\u05d5\u05d7 \u05e2\u05dc \u05e0\u05ea\u05d5\u05e0\u05d9 \u05de\u05e9\u05e8\u05d3"
+    },
+    {
+        "Site": "https://professionalunits.justice.gov.il/units/AppraiserRegistration/MainForm.aspx",
+        "Title": "\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05de\u05d5\u05e2\u05e6\u05ea \u05e9\u05de\u05d0\u05d9 \u05de\u05e7\u05e8\u05e7\u05e2\u05d9\u05df",
+        "URLafterRedirect": "https://professionalunits.justice.gov.il/Home/Login?ReturnUrl=%2fAppraisers",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://professionalunits.justice.gov.il/units/RealestateRegistration/MainForm.aspx",
+        "Title": "\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05e8\u05e9\u05dd \u05d4\u05de\u05ea\u05d5\u05d5\u05db\u05d9\u05dd",
+        "URLafterRedirect": "https://professionalunits.justice.gov.il/Home/Login?ReturnUrl=%2fRealEstate",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://pua.gov.il",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05d7\u05e9\u05de\u05dc",
+        "URLafterRedirect": "https://pua.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=commercialCompetitiveparts@most.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05d0\u05d9\u05e9\u05d5\u05e8 \u05d5\u05e9\u05d7\u05e8\u05d5\u05e8 \u05d7\u05dc\u05e7\u05d9 \u05d7\u05d9\u05dc\u05d5\u05e3 \u05d1\u05d9\u05d1\u05d5\u05d0 \u05de\u05e1\u05d7\u05e8\u05d9",
+        "URLafterRedirect": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=commercialCompetitiveparts@most.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=commercialCompetitiveTools@most.gov.il",
+        "Title": "\u05d8\u05d5\u05e4\u05e1 \u05d1\u05e7\u05e9\u05d4 \u05dc\u05e9\u05d7\u05e8\u05d5\u05e8 \u05e9\u05dc \u05db\u05dc\u05d9\u05dd \u05ea\u05d7\u05e8\u05d5\u05ea\u05d9\u05d9\u05dd \u05d1\u05d9\u05d1\u05d5\u05d0 \u05de\u05e1\u05d7\u05e8\u05d9",
+        "URLafterRedirect": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=commercialCompetitiveTools@most.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formType=import7@mti.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05e7\u05d1\u05dc\u05ea \u05d0\u05d9\u05e9\u05d5\u05e8 \u05d4\u05de\u05de\u05d5\u05e0\u05d4 \u05e2\u05dc \u05d4\u05ea\u05e7\u05d9\u05e0\u05d4 \u05dc\u05d8\u05d5\u05d1\u05d9\u05df \u05de\u05d9\u05d5\u05d1\u05d0\u05d9\u05dd",
+        "URLafterRedirect": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formType=import7@mti.gov.il",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=StudyFA@mops.gov.il",
+        "Title": "\u05e7\u05dc\u05d9\u05d8\u05ea \u05e0\u05ea\u05d5\u05e0\u05d9 \u05d4\u05db\u05e9\u05e8\u05d4",
+        "URLafterRedirect": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=StudyFA@mops.gov.il",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://publicsca.forms.gov.il/globalData/GetSequence/gethtmlform.aspx?formtype=WorkerAttach@mops.gov.il",
+        "Title": "\u05e9\u05d9\u05d5\u05da \u05e2\u05d5\u05d1\u05d3\u05d9\u05dd \u05d5\u05db\u05dc\u05d9 \u05d9\u05e8\u05d9\u05d9\u05d4 \u05d1\u05d0\u05e8\u05d2\u05d5\u05df",
+        "URLafterRedirect": "https://publicsca.forms.gov.il/globalData/GetSequence/gethtmlform.aspx?formtype=WorkerAttach@mops.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://publicsca.forms.gov.il/globaldata/getsequence/getsequence.aspx?formtype=bloodTissue@moh.health.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05d9\u05d1\u05d5\u05d0 \u05ea\u05d0\u05d9\u05dd \u05d5\u05e8\u05e7\u05de\u05d5\u05ea, \u05d3\u05dd \u05d5\u05de\u05e8\u05db\u05d9\u05d1\u05d9\u05d5",
+        "URLafterRedirect": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formType=bloodTissue_hasava@moh.health.gov.il",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://publicsca.forms.gov.il/globaldata/getsequence/getsequence.aspx?formtype=Pharma@moh.health.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05d9\u05d1\u05d5\u05d0 \u05ea\u05e8\u05d5\u05e4\u05d5\u05ea \u05d5\u05d7\u05d5\u05de\u05e8\u05d9\u05dd \u05e4\u05e8\u05de\u05e6\u05d1\u05d8\u05d9\u05d9\u05dd \u05e2\u05e4 \u05e6\u05d5 \u05d9\u05d1\u05d5\u05d0 \u05d7\u05d5\u05e4\u05e9\u05d9",
+        "URLafterRedirect": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=Pharma@moh.health.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://publicsca.forms.gov.il/globaldata/getsequence/getsequence.aspx?formtype=RequestFA@mops.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05e8\u05d9\u05e9\u05d9\u05d5\u05df \u05db\u05dc\u05d9 \u05d9\u05e8\u05d9\u05d9\u05d4",
+        "URLafterRedirect": "https://publicsca.forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=RequestFA@mops.gov.il",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://qa.signup.gov.il/#/register",
+        "Title": "\u05de\u05e2\u05e8\u05db\u05ea \u05d4\u05d4\u05d6\u05d3\u05d4\u05d5\u05ea \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9\u05ea | gov.il",
+        "URLafterRedirect": "https://qa.signup.gov.il/#/register",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://QA.UPDATE.GOV.IL",
+        "Title": "\u05d4\u05d6\u05d3\u05d4\u05d5\u05ea",
+        "URLafterRedirect": "https://up.idp.gov.il/my.policy",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://RAF.MOLSA.GOV.IL",
+        "Title": "",
+        "URLafterRedirect": "https://raf.molsa.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card- \u05de\u05e2\u05e8\u05db\u05ea \u05e8\u05e3"
+    },
+    {
+        "Site": "https://REGISTERED.METADATA.GOV.IL",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "https://registered.metadata.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card- \u05d0\u05ea\u05e8 \u05d4\u05de\u05d8\u05d0\u05d3\u05d0\u05d8\u05d4"
+    },
+    {
+        "Site": "https://REPORTS.MILUIM-ISHI.AKA.IDF.IL",
+        "Title": "Audit Report",
+        "URLafterRedirect": "https://reports.miluim-ishi.aka.idf.il/modules/AuditLog/AuditLog.aspx",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://rishuybniya.moin.gov.il/PersonalZone/Pages/Lobby.aspx",
+        "Title": "\u05d3\u05e3 \u05d7\u05d9\u05d3\u05d5\u05e9 \u05de\u05e9\u05da \u05d6\u05de\u05df \u05d4\u05d4\u05ea\u05d7\u05d1\u05e8\u05d5\u05ea",
+        "URLafterRedirect": "https://rishuybniya.moin.gov.il/PersonalZone/Pages/EndOfSessionPage.aspx",
+        "TimeToReport": "30",
+        "Misc": "Smart Card- \u05e8\u05d9\u05e9\u05d5\u05d9 \u05d6\u05de\u05d9\u05df"
+    },
+    {
+        "Site": "https://ROUNDTABLE.PMO.GOV.IL",
+        "Title": "\u05d4\u05ea\u05d7\u05d1\u05e8 | \u05d0\u05d2\u05e3 \u05de\u05de\u05e9\u05dc \u05d5\u05d7\u05d1\u05e8\u05d4",
+        "URLafterRedirect": "https://roundtable.pmo.gov.il/he/user/login?destination=node/204",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://S.GOVSHARE.GOV.IL",
+        "Title": "\u05d7\u05e9\u05d1\u05d5\u05df \u05de\u05e9\u05ea\u05de\u05e9 | Gov Share",
+        "URLafterRedirect": "https://s.govshare.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://sanegoria.justice.gov.il/Pages/Login.aspx?ReturnUrl=/Pages/Home.aspx",
+        "Title": "\u05d4\u05ea\u05d7\u05d1\u05e8\u05d5\u05ea - \u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd",
+        "URLafterRedirect": "https://sanegoria.justice.gov.il/Pages/Login.aspx?ReturnUrl=/Pages/Home.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://SCA.GEO.TEHILA.GOV.IL",
+        "Title": "\u05db\u05e0\u05d9\u05e1\u05d4",
+        "URLafterRedirect": "https://sca.geo.tehila.gov.il/Login.aspx?ReturnUrl=%2f",
+        "TimeToReport": "15",
+        "Misc": "Smart Card-\u05e9\u05e8\u05ea \u05d4\u05ea\u05e9\u05dc\u05d5\u05de\u05d9\u05dd \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9 - \u05de\u05de\u05e9\u05e7 \u05e0\u05d9\u05d4\u05d5\u05dc"
+    },
+    {
+        "Site": "https://shabak.gov.il",
+        "Title": "\u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05d4\u05db\u05dc\u05dc\u05d9",
+        "URLafterRedirect": "https://www.shabak.gov.il/Pages/index.html#=1",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://sides.rbc.gov.il",
+        "Title": "\u05db\u05e0\u05d9\u05e1\u05d4 \u05d1\u05ea\u05d9 \u05d3\u05d9\u05df \u05e8\u05d1\u05e0\u05d9\u05d9\u05dd",
+        "URLafterRedirect": "https://sides.rbc.gov.il/Login.aspx?ReturnUrl=%2f",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://SIYUALAWYERS.JUSTICE.GOV.IL",
+        "Title": "\u05e2\u05d5\u05e8\u05db\u05d9 \u05d3\u05d9\u05df-\u05d4\u05e1\u05d9\u05d5\u05e2 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9 Online",
+        "URLafterRedirect": "https://siyualawyers.justice.gov.il/Identification/NotAuthorized",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://taxes.gov.il/Pages/HomePage.aspx",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05de\u05e1\u05d9\u05dd \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc - \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "https://taxes.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://TIKUN84.JUSTICE.GOV.IL",
+        "Title": "",
+        "URLafterRedirect": "https://tikun84.justice.gov.il/Guest.aspx",
+        "TimeToReport": "15",
+        "Misc": "Smart Card- \u05de\u05e2\u05e8\u05db\u05ea \u05e9\u05de\u05d0\u05d9 \u05de\u05db\u05e8\u05d9\u05e2"
+    },
+    {
+        "Site": "https://trademarksonline.justice.gov.il/",
+        "Title": "\u05e1\u05d9\u05de\u05e0\u05d9 \u05de\u05e1\u05d7\u05e8 \u05db\u05e0\u05d9\u05e1\u05d4",
+        "URLafterRedirect": "https://trademarksonline.justice.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://tstar.mof.gov.il/#/ExternalUserGetway/ChooseReportType",
+        "Title": "",
+        "URLafterRedirect": "https://tstar.mof.gov.il/#/ExternalUserGetway/ChooseReportType",
+        "TimeToReport": "15",
+        "Misc": "Smart Card- \u05de\u05e2\u05e8\u05db\u05ea \u05e8\u05d5\u05d0\u05d9 \u05d7\u05e9\u05d1\u05d5\u05df"
+    },
+    {
+        "Site": "https://UPDATE.GOV.IL",
+        "Title": "\u05d4\u05d6\u05d3\u05d4\u05d5\u05ea",
+        "URLafterRedirect": "https://up.idp.gov.il/my.policy",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://VSTATS.TEHILA.GOV.IL",
+        "Title": "Sign in - Matomo",
+        "URLafterRedirect": "https://vstats.tehila.gov.il/",
+        "TimeToReport": "15",
+        "Misc": "Smart Card"
+    },
+    {
+        "Site": "https://www.aka.idf.il/main/sachar/",
+        "Title": "\u05d0\u05ea\u05e8 \u05d4\u05e9\u05db\u05e8 \u05d5\u05d4\u05db\u05e1\u05e4\u05d9\u05dd",
+        "URLafterRedirect": "https://www.aka.idf.il/main/sachar/",
+        "TimeToReport": "15",
+        "Misc": "\u05e6\u05d4\"\u05dc"
+    },
+    {
+        "Site": "https://www.boi.org.il/he/consumerinformation/restrictedaccountsandcustomers/mushlaj/pages/index.aspx",
+        "Title": "\u05d4\u05de\u05d3\u05d5\u05e8 \u05dc\u05d8\u05d9\u05e4\u05d5\u05dc \u05d1\u05d7\u05e9\u05d1\u05d5\u05e0\u05d5\u05ea \u05de\u05d5\u05d2\u05d1\u05dc\u05d9\u05dd",
+        "URLafterRedirect": "https://www.boi.org.il/he/consumerinformation/restrictedaccountsandcustomers/mushlaj/pages/index.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d1\u05e0\u05e7 \u05d9\u05e9\u05e8\u05d0\u05dc"
+    },
+    {
+        "Site": "https://www.boi.org.il/he/Pages/MailingLists.aspx",
+        "Title": "\u05d1\u05e0\u05e7 \u05d9\u05e9\u05e8\u05d0\u05dc - \u05e8\u05e9\u05d9\u05de\u05d5\u05ea \u05ea\u05e4\u05d5\u05e6\u05d4",
+        "URLafterRedirect": "https://www.boi.org.il/he/Pages/MailingLists.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.btl.gov.il/Pages/default.aspx",
+        "Title": "\u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea, \u05d4\u05de\u05d5\u05e1\u05d3 \u05dc\u05d1\u05d9\u05d8\u05d5\u05d7 \u05dc\u05d0\u05d5\u05de\u05d9\u00a0",
+        "URLafterRedirect": "https://www.btl.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/",
+        "Title": "gov.il - \u05d4\u05d0\u05ea\u05e8 \u05d4\u05d7\u05d3\u05e9 \u05dc\u05e9\u05d9\u05e8\u05d5\u05ea\u05d9\u05dd \u05d5\u05dc\u05de\u05d9\u05d3\u05e2 \u05de\u05de\u05e9\u05dc\u05ea\u05d9",
+        "URLafterRedirect": "https://www.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/authority_for_national_civic_service",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05dc\u05d0\u05d5\u05de\u05d9-\u05d0\u05d6\u05e8\u05d7\u05d9\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/authority_for_national_civic_service",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/bedouin_authority",
+        "Title": "\u05d4\u05e8\u05e9\u05d5\u05ea \u05dc\u05e4\u05d9\u05ea\u05d5\u05d7 \u05d5\u05d4\u05ea\u05d9\u05d9\u05e9\u05d1\u05d5\u05ea \u05d4\u05d1\u05d3\u05d5\u05d0\u05d9\u05dd \u05d1\u05e0\u05d2\u05d1",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/bedouin_authority",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/chief_rabbinate_of_israel",
+        "Title": "\u05d4\u05e8\u05d1\u05e0\u05d5\u05ea \u05d4\u05e8\u05d0\u05e9\u05d9\u05ea \u05dc\u05d9\u05e9\u05e8\u05d0\u05dc\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/chief_rabbinate_of_israel",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/digital_israel",
+        "Title": "\u05de\u05d8\u05d4 \u05d4\u05de\u05d9\u05d6\u05dd \u05d4\u05dc\u05d0\u05d5\u05de\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc \u05d3\u05d9\u05d2\u05d9\u05d8\u05dc\u05d9\u05ea, \u05d1\u05de\u05e9\u05e8\u05d3 \u05dc\u05e9\u05d5\u05d5\u05d9\u05d5\u05df \u05d7\u05d1\u05e8\u05ea\u05d9\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/digital_israel",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/firefighting_and_rescue_israel",
+        "Title": "\u05db\u05d1\u05d0\u05d5\u05ea \u05d5\u05d4\u05e6\u05dc\u05d4 \u05dc\u05d9\u05e9\u05e8\u05d0\u05dc",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/firefighting_and_rescue_israel",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/government_ict_authority",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05ea\u05e7\u05e9\u05d5\u05d1 \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/government_ict_authority",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/Guides/witness_protection_authority_guide",
+        "Title": "\u05d4\u05de\u05e9\u05e8\u05d3 \u05dc\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05d4\u05e4\u05e0\u05d9\u05dd | \u05d4\u05e8\u05e9\u05d5\u05ea \u05dc\u05d4\u05d2\u05e0\u05d4 \u05e2\u05dc \u05e2\u05d3\u05d9\u05dd",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/Guides/witness_protection_authority_guide",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/iplan",
+        "Title": "\u05de\u05d9\u05e0\u05d4\u05dc \u05d4\u05ea\u05db\u05e0\u05d5\u05df",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/iplan",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/israel_national_cyber_directorate",
+        "Title": "\u05de\u05e2\u05e8\u05da \u05d4\u05e1\u05d9\u05d9\u05d1\u05e8 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/israel_national_cyber_directorate",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/israel_national_road_safety_authority",
+        "Title": "\u05d4\u05e8\u05e9\u05d5\u05ea \u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05dc\u05d1\u05d8\u05d9\u05d7\u05d5\u05ea \u05d1\u05d3\u05e8\u05db\u05d9\u05dd",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/israel_national_road_safety_authority",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/israel_police",
+        "Title": "\u05de\u05e9\u05d8\u05e8\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/israel_police",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/law_enforcement_and_collection_system_authority",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05d0\u05db\u05d9\u05e4\u05d4 \u05d5\u05d4\u05d2\u05d1\u05d9\u05d9\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/law_enforcement_and_collection_system_authority",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_for_social_equality",
+        "Title": "\u05d4\u05de\u05e9\u05e8\u05d3 \u05dc\u05e9\u05d5\u05d5\u05d9\u05d5\u05df \u05d7\u05d1\u05e8\u05ea\u05d9",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_for_social_equality",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_aliyah_and_integration",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05e2\u05dc\u05d9\u05d9\u05d4 \u05d5\u05d4\u05e7\u05dc\u05d9\u05d8\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_aliyah_and_integration",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_communications",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05ea\u05e7\u05e9\u05d5\u05e8\u05ea",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_communications",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_construction_and_housing",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05d9\u05e0\u05d5\u05d9 \u05d5\u05d4\u05e9\u05d9\u05db\u05d5\u05df\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_construction_and_housing",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_culture_and_sport",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05ea\u05e8\u05d1\u05d5\u05ea \u05d5\u05d4\u05e1\u05e4\u05d5\u05e8\u05d8\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_culture_and_sport",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_economy",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05db\u05dc\u05db\u05dc\u05d4 \u05d5\u05d4\u05ea\u05e2\u05e9\u05d9\u05d9\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_economy",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_energy",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d0\u05e0\u05e8\u05d2\u05d9\u05d4\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_energy",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_jerusalem_and_heritage",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd \u05d5\u05de\u05d5\u05e8\u05e9\u05ea",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_jerusalem_and_heritage",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_justice",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_justice",
+        "TimeToReport": "15",
+        "Misc": "\u05d0\u05ea\u05e8 \u05d9\u05e9\u05df"
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_justice",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05e9\u05e4\u05d8\u05d9\u05dd",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_justice",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_public_security",
+        "Title": "\u05d4\u05de\u05e9\u05e8\u05d3 \u05dc\u05d1\u05d9\u05d8\u05d7\u05d5\u05df \u05d4\u05e4\u05e0\u05d9\u05dd",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_public_security",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_religious_services",
+        "Title": "\u05d4\u05de\u05e9\u05e8\u05d3 \u05dc\u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05d3\u05ea",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_religious_services",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_science_and_technology",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05de\u05d3\u05e2 \u05d5\u05d4\u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_science_and_technology",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_tourism",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05ea\u05d9\u05d9\u05e8\u05d5\u05ea",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_tourism",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/ministry_of_transport_and_road_safety",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05ea\u05d7\u05d1\u05d5\u05e8\u05d4 \u05d5\u05d4\u05d1\u05d8\u05d9\u05d7\u05d5\u05ea \u05d1\u05d3\u05e8\u05db\u05d9\u05dd",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/ministry_of_transport_and_road_safety",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/national_biometric_database_authority",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05de\u05d0\u05d2\u05e8 \u05d4\u05d1\u05d9\u05d5\u05de\u05d8\u05e8\u05d9 \u05d4\u05dc\u05d0\u05d5\u05de\u05d9",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/national_biometric_database_authority",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/population_and_immigration_authority",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05d0\u05d5\u05db\u05dc\u05d5\u05e1\u05d9\u05df \u05d5\u05d4\u05d4\u05d2\u05d9\u05e8\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/population_and_immigration_authority",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/prime_ministers_office",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/prime_ministers_office",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/prison_service",
+        "Title": "\u05e9\u05d9\u05e8\u05d5\u05ea \u05d1\u05ea\u05d9 \u05d4\u05e1\u05d5\u05d4\u05e8\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/prison_service",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/public_transportion_authority",
+        "Title": "\u05d4\u05e8\u05e9\u05d5\u05ea \u05d4\u05d0\u05e8\u05e6\u05d9\u05ea \u05dc\u05ea\u05d7\u05d1\u05d5\u05e8\u05d4 \u05e6\u05d9\u05d1\u05d5\u05e8\u05d9\u05ea",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/public_transportion_authority",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/secretary",
+        "Title": "\u05de\u05d6\u05db\u05d9\u05e8\u05d5\u05ea \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/secretary",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/the_judicial_authority",
+        "Title": "\u05d4\u05e8\u05e9\u05d5\u05ea \u05d4\u05e9\u05d5\u05e4\u05d8\u05ea",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/the_judicial_authority",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/the_privacy_protection_authority",
+        "Title": "\u05d4\u05e8\u05e9\u05d5\u05ea \u05dc\u05d4\u05d2\u05e0\u05ea \u05d4\u05e4\u05e8\u05d8\u05d9\u05d5\u05ea",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/the_privacy_protection_authority",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/the_rabbinical_courts",
+        "Title": "\u05d1\u05ea\u05d9 \u05d4\u05d3\u05d9\u05df \u05d4\u05e8\u05d1\u05e0\u05d9\u05d9\u05dd\u00a0",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/the_rabbinical_courts",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/Departments/unit_enforcing_planning_and_construction_laws",
+        "Title": "\u05d4\u05d9\u05d7\u05d9\u05d3\u05d4 \u05d4\u05d0\u05e8\u05e6\u05d9\u05ea \u05dc\u05d0\u05db\u05d9\u05e4\u05ea \u05d3\u05d9\u05e0\u05d9 \u05d4\u05ea\u05db\u05e0\u05d5\u05df \u05d5\u05d4\u05d1\u05e0\u05d9\u05d4",
+        "URLafterRedirect": "https://www.gov.il/he/Departments/unit_enforcing_planning_and_construction_laws",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.gov.il/he/service/application_for_biometric_passport2",
+        "Title": "\u05e8\u05e9\u05d5\u05ea \u05d4\u05d0\u05d5\u05db\u05dc\u05d5\u05e1\u05d9\u05df \u05d5\u05d4\u05d4\u05d2\u05d9\u05e8\u05d4 | \u05d1\u05e7\u05e9\u05d4 \u05dc\u05d3\u05e8\u05db\u05d5\u05df",
+        "URLafterRedirect": "https://www.gov.il/he/service/application_for_biometric_passport2",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.health.gov.il",
+        "Title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea - \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "https://www.health.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.landmarks.gov.il",
+        "Title": "\u05e6\u05d9\u05d5\u05e0\u05d9 \u05d3\u05e8\u05da | \u05de\u05d5\u05e8\u05e9\u05ea \u05dc\u05d0\u05d5\u05de\u05d9\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea",
+        "URLafterRedirect": "https://www.landmarks.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.miluim-ishi.aka.idf.il/MedicalCommitteeRequest",
+        "Title": "\u05db\u05e0\u05d9\u05e1\u05d4 \u05dc\u05d0\u05d6\u05d5\u05e8 \u05d4\u05d0\u05d9\u05e9\u05d9",
+        "URLafterRedirect": "https://www.miluim-ishi.aka.idf.il/Login?ReturnUrl=%2fMedicalCommitteeRequest",
+        "TimeToReport": "30",
+        "Misc": "\u05d0\u05ea\u05e8 \u05d4\u05de\u05d9\u05dc\u05d5\u05d0\u05d9\u05dd"
+    },
+    {
+        "Site": "https://www.mr.gov.il",
+        "Title": "\u05de\u05d9\u05e0\u05d4\u05dc \u05d4\u05e8\u05db\u05e9 - \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea",
+        "URLafterRedirect": "https://www.mr.gov.il/Pages/HomePage.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.nadlan.gov.il",
+        "Title": "\u05d0\u05ea\u05e8 \u05d4\u05e0\u05d3\u05dc''\u05df \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9 ",
+        "URLafterRedirect": "https://www.nadlan.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.old.health.gov.il/vschool",
+        "Title": "\u05d4\u05e7\u05de\u05e4\u05d5\u05e1 \u05d4\u05d5\u05d9\u05e8\u05d8\u05d5\u05d0\u05dc\u05d9 \u05e9\u05dc \u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea",
+        "URLafterRedirect": "https://www.old.health.gov.il/vschool/site/index1.asp",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.people.iaf.org.il/Templates/Login/Login.aspx?ReturnUrl=%2fdefault.aspx",
+        "Title": "",
+        "URLafterRedirect": "https://www.people.iaf.org.il/Templates/Login/Login.aspx?ReturnUrl=%2fdefault.aspx",
+        "TimeToReport": "15",
+        "Misc": "\u05d7\u05d9\u05dc \u05d4\u05d0\u05d5\u05d9\u05e8 \u05d5\u05d4\u05d7\u05dc\u05dc \u05e4\u05d5\u05e8\u05d8\u05dc \u05d0\u05e0\u05e9\u05d9\u05dd"
+    },
+    {
+        "Site": "https://www.taasuka.gov.il/he",
+        "Title": "\u05dc\u05d5\u05d7 \u05d3\u05e8\u05d5\u05e9\u05d9\u05dd - \u05d7\u05d9\u05e4\u05d5\u05e9 \u05e2\u05d1\u05d5\u05d3\u05d4 - \u05de\u05e2\u05dc 13,000 \u05de\u05e9\u05e8\u05d5\u05ea \u05e4\u05e0\u05d5\u05d9\u05d5\u05ea - \u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05ea\u05e2\u05e1\u05d5\u05e7\u05d4",
+        "URLafterRedirect": "https://www.taasuka.gov.il/he",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.tac.gov.il",
+        "Title": "\u05d0\u05ea\u05e8 \u05de\u05d5\u05e2\u05e6\u05ea \u05d9\u05d5\u05e2\u05e6\u05d9 \u05d4\u05de\u05e1 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc",
+        "URLafterRedirect": "https://www.tac.gov.il/Pages/default.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://www.topocad.gov.il",
+        "Title": "\u05d8\u05d5\u05e4\u05d5\u05e7\u05d3",
+        "URLafterRedirect": "https://www.topocad.gov.il/",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formType=refund_hasava@mof.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d5\u05ea \u05dc\u05d4\u05d7\u05d6\u05e8 \u05db\u05e1\u05e4\u05d9 \u05e2\u05d1\u05d5\u05e8 \u05ea\u05e9\u05dc\u05d5\u05de\u05d9\u05dd \u05e9\u05d1\u05d5\u05e6\u05e2\u05d5 \u05d1\u05d0\u05de\u05e6\u05e2\u05d5\u05ea \u05db\u05e8\u05d8\u05d9\u05e1 \u05d0\u05e9\u05e8\u05d0\u05d9 \u05d1\u05e9\u05d9\u05e8\u05d5\u05ea \u05d4\u05ea\u05e9\u05dc\u05d5\u05de\u05d9\u05dd \u05d4\u05de\u05de\u05e9\u05dc\u05ea\u05d9",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formType=refund_hasava@mof.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=apc2_hasava@justice.gov.il",
+        "Title": "\u05ea\u05d1\u05d9\u05e2\u05ea \u05d7\u05d5\u05d1",
+        "URLafterRedirect": "https://forms.gov.il/globaldata/getsequence/getHtmlForm.aspx?formtype=apc2_hasava@justice.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=tzavyerusha_test@justice.gov.il",
+        "Title": "\u05d1\u05e7\u05e9\u05d4 \u05dc\u05e6\u05d5 \u05d9\u05e8\u05d5\u05e9\u05d4",
+        "URLafterRedirect": "https://forms.gov.il/globalData/GetSequence/getHtmlForm.aspx?formType=tzavyerusha_test@justice.gov.il",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://saar.gov.il/saar/component/exsearch?unitlayer=lishka%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=0501-1007-2017-008522",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://saar.gov.il/saar/component/main/?unitlayer=lishka&docType=gov_document&docAttrNames=gov_id&docAttrValues=0501-1007-2017-008522",
+        "TimeToReport": "20",
+        "Misc": "GovP"
+    },
+    {
+        "Site": "https://saar.gov.il/SaarLite/dist.html?roid=090001f5800e398e",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://saar.gov.il/SaarLite/dist.html?roid=090001f5800e398e",
+        "TimeToReport": "20",
+        "Misc": ""
+    },
+    {
+        "Site": "https://most.saar.gov.il/saar/component/exsearch?unitlayer=lishka%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=5210-1234-2017-0000141",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://most.saar.gov.il/saar/component/main/?unitlayer=lishka&docType=gov_document&docAttrNames=gov_id&docAttrValues=5210-1234-2017-0000141",
+        "TimeToReport": "20",
+        "Misc": "Most"
+    },
+    {
+        "Site": "https://most.saar.gov.il/SaarLite/dist.html?roid=090175438003b170",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://most.saar.gov.il/SaarLite/dist.html?roid=090175438003b170",
+        "TimeToReport": "20",
+        "Misc": "Most"
+    },
+    {
+        "Site": "https://mofa.saar.gov.il/saar/component/exsearch?unitlayer=lishka%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=0900-0101-2017-000158",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://mofa.saar.gov.il/saar/component/main/?unitlayer=lishka&docType=gov_document&docAttrNames=gov_id&docAttrValues=0900-0101-2017-000158",
+        "TimeToReport": "20",
+        "Misc": "Mofa"
+    },
+    {
+        "Site": "https://mofa.saar.gov.il/SaarLite/dist.html?roid=090023288003a913",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://mofa.saar.gov.il/SaarLite/dist.html?roid=090023288003a913",
+        "TimeToReport": "20",
+        "Misc": "Mofa"
+    },
+    {
+        "Site": "https://moc.saar.gov.il/saar24e/component/exsearch?unitlayer=legal_app%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=5000-5001-2017-000332",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://moc.saar.gov.il/saar24e/component/main/?unitlayer=legal_app&docType=gov_document&docAttrNames=gov_id&docAttrValues=5000-5001-2017-000332",
+        "TimeToReport": "20",
+        "Misc": "Moc"
+    },
+    {
+        "Site": "https://moc.saar.gov.il/SaarLite/dist.html?roid=0900232a800b8547",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://moc.saar.gov.il/SaarLite/dist.html?roid=0900232a800b8547",
+        "TimeToReport": "20",
+        "Misc": "Moc"
+    },
+    {
+        "Site": "https://water.saar.gov.il/saar/component/exsearch?unitlayer=legal_app%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=5500-5501-2016-000382",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://water.saar.gov.il/saar/component/main/?unitlayer=legal_app&docType=gov_document&docAttrNames=gov_id&docAttrValues=5500-5501-2016-000382",
+        "TimeToReport": "20",
+        "Misc": "Water"
+    },
+    {
+        "Site": "https://water.saar.gov.il/SaarLite/dist.html?roid=0900157c800ee83a",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://water.saar.gov.il/SaarLite/dist.html?roid=0900157c800ee83a",
+        "TimeToReport": "20",
+        "Misc": "Water"
+    },
+    {
+        "Site": "https://tourism.saar.gov.il/saar/component/exsearch?unitlayer=lishka%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=1100-0007-2017-001184",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://tourism.saar.gov.il/saar/component/main/?unitlayer=lishka&docType=gov_document&docAttrNames=gov_id&docAttrValues=1100-0007-2017-001184",
+        "TimeToReport": "20",
+        "Misc": "Shared"
+    },
+    {
+        "Site": "https://tourism.saar.gov.il/SaarLite/dist.html?roid=09000fb4800c0702",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://tourism.saar.gov.il/SaarLite/dist.html?roid=09000fb4800c0702",
+        "TimeToReport": "20",
+        "Misc": "Shared"
+    },
+    {
+        "Site": "https://mapi.saar.gov.il/saar/component/main/?docAttrNames=gov_id&docAttrValues=2800-9999-2018-000634&docType=gov_document&unitlayer=lishka",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://mapi.saar.gov.il/saar/component/main/?docAttrNames=gov_id&docAttrValues=2800-9999-2018-000634&docType=gov_document&unitlayer=lishka",
+        "TimeToReport": "20",
+        "Misc": "Mapi"
+    },
+    {
+        "Site": "https://moch.saar.gov.il/SaarLite/dist.html?roid=090026488001f540",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://moch.saar.gov.il/SaarLite/dist.html?roid=090026488001f540",
+        "TimeToReport": "20",
+        "Misc": "Moch"
+    },
+    {
+        "Site": "https://aprent.saar.gov.il/saar/component/exsearch?unitlayer=lishka%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=5150-0001-2017-000102",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://aprent.saar.gov.il/saar/component/main/?unitlayer=lishka&docType=gov_document&docAttrNames=gov_id&docAttrValues=5150-0001-2017-000102",
+        "TimeToReport": "20",
+        "Misc": "Shared2-aprent"
+    },
+    {
+        "Site": "https://aprent.saar.gov.il/SaarLite/dist.html?roid=090023f08001183d",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://aprent.saar.gov.il/SaarLite/dist.html?roid=090023f08001183d",
+        "TimeToReport": "20",
+        "Misc": "Shared2-aprent"
+    },
+    {
+        "Site": "https://president.saar.gov.il/saar/component/exsearch?unitlayer=lishka%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=5300-9999-2017-000147",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://president.saar.gov.il/saar/component/main/?unitlayer=lishka&docType=gov_document&docAttrNames=gov_id&docAttrValues=5300-9999-2017-000147",
+        "TimeToReport": "20",
+        "Misc": "Shared2-president"
+    },
+    {
+        "Site": "https://president.saar.gov.il/SaarLitePresident/dist.html?roid=0900238c80025a0d",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://president.saar.gov.il/SaarLitePresident/dist.html?roid=0900238c80025a0d",
+        "TimeToReport": "20",
+        "Misc": "Shared2-president"
+    },
+    {
+        "Site": "https://moin.saar.gov.il/saar24e/component/main/?docAttrNames=gov_id&docAttrValues=0600-7777-2018-005886&docType=gov_document&unitlayer=committees",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://moin.saar.gov.il/saar24e/component/main/?docAttrNames=gov_id&docAttrValues=0600-7777-2018-005886&docType=gov_document&unitlayer=committees",
+        "TimeToReport": "20",
+        "Misc": "Moin"
+    },
+    {
+        "Site": "https://moin.saar.gov.il/SaarLite/dist.html?roid=09002454800600d4",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://moin.saar.gov.il/SaarLite/dist.html?roid=09002454800600d4",
+        "TimeToReport": "20",
+        "Misc": "Moin"
+    },
+    {
+        "Site": "https://eca.saar.gov.il/SaarLite/dist.html?roid=0900238c80038d06",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://eca.saar.gov.il/SaarLite/dist.html?roid=0900238c80038d06",
+        "TimeToReport": "20",
+        "Misc": "Shared3-eca"
+    },
+    {
+        "Site": "https://eca.saar.gov.il/saar24e/component/main/?docAttrNames=gov_id&docAttrValues=4750-8210-2018-002820&docType=gov_document&unitlayer=lishka",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://eca.saar.gov.il/saar24e/component/main/?docAttrNames=gov_id&docAttrValues=4750-8210-2018-002820&docType=gov_document&unitlayer=lishka",
+        "TimeToReport": "20",
+        "Misc": "Shared3-eca"
+    },
+    {
+        "Site": "https://mchp.saar.gov.il/saar/component/exsearch?unitlayer=lishka%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=3200-9999-2017-000013",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://mchp.saar.gov.il/saar/component/main/?unitlayer=lishka&docType=gov_document&docAttrNames=gov_id&docAttrValues=3200-9999-2017-000013",
+        "TimeToReport": "20",
+        "Misc": "Shared3-mchp"
+    },
+    {
+        "Site": "https://mchp.saar.gov.il/SaarLiteMchp/dist.html?roid=090024548007f572",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://mchp.saar.gov.il/SaarLiteMchp/dist.html?roid=090024548007f572",
+        "TimeToReport": "20",
+        "Misc": "Shared3-mchp"
+    },
+    {
+        "Site": "https://antitrust.saar.gov.il/saar/component/exsearch?unitlayer=lishka%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=1310-0001-2017-000261",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://antitrust.saar.gov.il/saar/component/main/?unitlayer=lishka&docType=gov_document&docAttrNames=gov_id&docAttrValues=1310-0001-2017-000261",
+        "TimeToReport": "20",
+        "Misc": "AntuTrust"
+    },
+    {
+        "Site": "https://antitrust.saar.gov.il/SaarLite/dist.html?roid=09002454800f762f",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://antitrust.saar.gov.il/SaarLite/dist.html?roid=09002454800f762f",
+        "TimeToReport": "20",
+        "Misc": "AntuTrust"
+    },
+    {
+        "Site": "https://csc.saar.gov.il/saar/component/exsearch?unitlayer=lishka%26docType=gov_document%26docAttrNames=gov_id%26docAttrValues=0491-0401-2017-001569",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://csc.saar.gov.il/saar/component/main/?unitlayer=lishka&docType=gov_document&docAttrNames=gov_id&docAttrValues=0491-0401-2017-001569",
+        "TimeToReport": "20",
+        "Misc": "CSC"
+    },
+    {
+        "Site": "https://csc.saar.gov.il/SaarLite/dist.html?roid=0901e6ad8003e5eb",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://csc.saar.gov.il/SaarLite/dist.html?roid=0901e6ad8003e5eb ",
+        "TimeToReport": "20",
+        "Misc": "CSC"
+    },
+    {
+        "Site": "https://moia.saar.gov.il/saar/component/exsearch?unitlayer=legal_app&docType=gov_document&docAttrNames=gov_id&docAttrValues=3000-1001-2018-0000161",
+        "Title": "\u05e1\u05e2\u05e8",
+        "URLafterRedirect": "https://moia.saar.gov.il/saar/component/main/?docAttrNames=gov_id&docAttrValues=3000-1001-2018-0000161&docType=gov_document&unitlayer=legal_app",
+        "TimeToReport": "20",
+        "Misc": "Moia"
+    },
+    {
+        "Site": "https://moia.saar.gov.il/SaarLite/dist.html?roid=090024b880005938",
+        "Title": "\u05e1\u05e2\"\u05e8 \u05dc\u05d9\u05d9\u05d8",
+        "URLafterRedirect": "https://moia.saar.gov.il/SaarLite/dist.html?roid=090024b880005938",
+        "TimeToReport": "20",
+        "Misc": "Moia"
+    },
+    {
+        "Site": "https://portalbi.gov.il",
+        "Title": "\u05e4\u05d5\u05e8\u05d8\u05dc BI",
+        "URLafterRedirect": "https://portalbi.gov.il/",
+        "TimeToReport": "20",
+        "Misc": ""
+    },
+    {
+        "Site": "https://hishtalmuyot.justice.gov.il/General/InstituteRegistration.aspx",
+        "Title": "\u05d4\u05e8\u05e9\u05de\u05d4 \u05dc\u05de\u05db\u05d5\u05df \u05dc\u05d4\u05e9\u05ea\u05dc\u05de\u05d5\u05d9\u05d5\u05ea",
+        "URLafterRedirect": "https://hishtalmuyotsc.justice.gov.il/general/instituteregistration.aspx",
+        "TimeToReport": "20",
+        "Misc": ""
+    },
+    {
+        "Site": "http://bechirot.gov.il",
+        "Title": "\n  \n    \u05d5\u05e2\u05d3\u05ea \u05d4\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea \u05dc\u05db\u05e0\u05e1\u05ea - \u05d3\u05e3 \u05d4\u05d1\u05d9\u05ea\n",
+        "URLafterRedirect": "http://bechirot.gov.il/election/Pages/HomePage.aspx",
+        "TimeToReport": "60",
+        "Misc": "\u05db\u05e0\u05e1\u05ea 21"
+    },
+    {
+        "Site": "http://bituachnet.cma.gov.il/bituachTsuotUI/Tsuot/UI/bituachTsuotUI.aspx",
+        "Title": "\u05d1\u05d9\u05d8\u05d5\u05d7 \u05e0\u05d8 - \u05de\u05e2\u05e8\u05db\u05ea \u05dc\u05d4\u05e9\u05d5\u05d5\u05d0\u05ea \u05d7\u05d1\u05e8\u05d5\u05ea \u05d1\u05d9\u05d8\u05d5\u05d7",
+        "URLafterRedirect": "https://bituachnet.cma.gov.il/bituachTsuotUI/Tsuot/UI/bituachTsuotUI.aspx",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "https://maslul-elk.tehila.gov.il",
+        "Title": "Kibana",
+        "URLafterRedirect": "https://maslul-elk.tehila.gov.il/app/kibana#/home?_g=()",
+        "TimeToReport": "15",
+        "Misc": ""
+    },
+    {
+        "Site": "http://my.gov.il ",
+        "Title": "\u05d0\u05d6\u05d5\u05e8 \u05d0\u05d9\u05e9\u05d9",
+        "URLafterRedirect": "https://my.gov.il/landing/index.html",
+        "TimeToReport": "20",
+        "Misc": ""
+    },
+    {
+        "Site": "",
+        "Title": "",
+        "URLafterRedirect": "",
+        "TimeToReport": "",
+        "Misc": ""
+    }
+]
