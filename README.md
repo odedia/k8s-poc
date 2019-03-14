@@ -1,2 +1,4 @@
 # poc-k8s
-# k8s-poc
+
+helm init --wait --service-account tiller --upgrade
+helm install stable/rabbitmq
