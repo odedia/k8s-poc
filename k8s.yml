@@ -1,0 +1,108 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: pocns
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: poc1
+  namespace: pocns
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: poc1
+  template:
+    metadata:
+      labels:
+        app: poc1
+    spec:
+      containers:
+        - name: poc1
+          image: odedia/poc1
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8080
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: poc2
+  namespace: pocns
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: poc2
+  template:
+    metadata:
+      labels:
+        app: poc2
+    spec:
+      containers:
+        - name: poc2
+          image: odedia/poc2
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8080
+# ---
+# apiVersion: apps/v1
+# kind: Deployment
+# metadata:
+#   name: rabbitmq
+#   namespace: pocns
+# spec:
+#   replicas: 1
+#   selector:
+#     matchLabels:
+#       app: rabbitmq
+#   template:
+#     metadata:
+#       labels:
+#         app: rabbitmq
+#     spec:
+#       containers:
+#         - name: rabbitmq
+#           image: rabbitmq
+#           imagePullPolicy: Always
+#           ports:
+#             - containerPort: 5672
+#             - containerPort: 15672
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: poc1-lb
+  labels:
+    app: poc1
+  namespace: pocns
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 80
+      protocol: TCP
+      targetPort: 8080
+  selector:
+    app: poc1
+# ---
+# apiVersion: v1
+# kind: Service
+# metadata:
+#   name: rabbitmq
+#   namespace: pocns
+# spec:
+#   selector:
+#     name: rabbitmq
+#   ports:
+#   - protocol: TCP
+#     port: 15672
+#     targetPort: 15672
+#     name: http
+#   - protocol: TCP
+#     port: 5672
+#     targetPort: 5672
+#     name: amqp
+
