@@ -4,10 +4,24 @@ import datetime
 import requests
 import json
 import re
+import os
 import requests_pkcs12
+import time
 
-credentials = pika.PlainCredentials('user', '2wVEPkVLX9')
-connection = pika.BlockingConnection(pika.ConnectionParameters('wise-frog-rabbitmq.default.svc.cluster.local',5672,'/',credentials))
+if 'VCAP_SERVICES' in os.environ:
+    services = json.loads(os.getenv('VCAP_SERVICES'))
+    rabbit_env = services['p-rabbitmq'][0]['credentials']
+else:
+    rabbit_env = dict(hostname='localhost', port=5672, password='')
+
+
+credentials = pika.PlainCredentials(rabbit_env['username'], 
+                                    rabbit_env['password'])
+connection = pika.BlockingConnection(pika.ConnectionParameters(
+  rabbit_env['hostname'],
+  5672,
+  rabbit_env['vhost'],
+  credentials))
 channel = connection.channel()
 
 channel.queue_declare(queue='sites')
@@ -51,7 +65,9 @@ def callback(ch, method, properties, body):
     
     a = datetime.datetime.now()
     try:
-        r = requests.get(data['Site'])
+        time.sleep(1)
+        r = requests.get("http://www.google.com")
+
         # Need to bring the GalGadot.pfx file into the container
         #r = requests_pkcs12.get(data['Site'], pkcs12_filename='GalGadot.pfx', pkcs12_password='Tehila!@')
     except Exception as e:
@@ -87,9 +103,7 @@ def callback(ch, method, properties, body):
     channel.basic_ack(delivery_tag = method.delivery_tag)
 
 channel.basic_qos(prefetch_count=1)
-channel.basic_consume(callback,
-                      queue='sites',
-                      no_ack=False)
+channel.basic_consume(on_message_callback=callback, queue='sites')
 
 print(' [*] Waiting for messages.')
 try:
