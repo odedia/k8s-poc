@@ -10,7 +10,7 @@ import time
 
 if 'VCAP_SERVICES' in os.environ:
     services = json.loads(os.getenv('VCAP_SERVICES'))
-    rabbit_env = services['p-rabbitmq'][0]['credentials']
+    rabbit_env = services['p.rabbitmq'][0]['credentials']
 else:
     rabbit_env = dict(hostname='localhost', port=5672, password='')
 
